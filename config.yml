@@ -1,8 +1,8 @@
+local_backend: true
 publish_mode: editorial_workflow
-site_url: https://divd-nl.github.io/web-www-v2/#/
+site_url: http://localhost:3000
 backend:
-  name: github
-  repo: DIVD-NL/web-www-v2
+  name: git-gateway
   branch: main
 media_folder: public/static
 public_folder: static
@@ -21,14 +21,109 @@ collections:
         name: "home"
         file: "content/home.md"
         i18n: true
+        delete: false
         fields:
           - { label: "Title", name: "title", widget: "string", i18n: true }
           - { label: "Intro", name: "intro", widget: "text", i18n: true }
+          - label: "fold"
+            name: "fold"
+            i18n: true
+            widget: "object"
+            fields:
+              - label: "Showcase"
+                name: "showcase"
+                widget: "relation"
+                collection: "articles"
+                search_fields: ["title", "case.caseid"]
+                value_field: "{{slug}}|{{title}}|{{image}}"
+                display_fields: ["title", "case.caseid"]
+                multiple: false
+              - { label: "Received an email", name: "received", widget: "string", i18n: true }
+              - { label: "Family", name: "family", widget: "string", i18n: true }
+
+          - label: "What we do"
+            name: "whatwedo"
+            widget: "object"
+            collapsed: true
+            i18n: true
+            fields:
+              - { label: title, name: title, widget: string, i18n: true }
+              - { label: description, name: description, widget: text, i18n: true }
+              - { label: t1, name: t1, widget: string, i18n: true }
+              - { label: t2, name: t2, widget: string, i18n: true }
+              - { label: t3, name: t3, widget: string, i18n: true }
+
+          - label: "Help us, help you"
+            name: "helpushelpyou"
+            widget: "object"
+            collapsed: true
+            i18n: true
+            fields:
+              - { label: title, name: title, widget: string, i18n: true }
+              - { label: description, name: description, widget: text, i18n: true }
+
+          - label: "Volunteer"
+            name: "volunteer"
+            widget: "object"
+            collapsed: true
+            i18n: true
+            fields:
+              - { label: title, name: title, widget: string, i18n: true }
+              - {
+                  label: checklist,
+                  name: checklist,
+                  widget: list,
+                  allow_add: true,
+                  i18n: true,
+                  fields: [{ label: "Item", name: "item", widget: string }]
+                }
+
+          - label: "Partners"
+            name: "partners"
+            widget: "object"
+            collapsed: true
+            i18n: true
+            fields:
+              - { label: description, name: description, widget: text, i18n: true }
+
+      - label: "Testimonials"
+        name: "testimonials"
+        file: "content/testimonials.md"
+        i18n: true
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+            i18n: true
+          - label: "Testimonials"
+            name: "testimonials"
+            widget: list
+            i18n: true
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "role", name: "role", widget: "string", i18n: true }
+              - { label: "Quote", name: "quote", widget: "text", i18n: true }
+              - {
+                  label: "Image",
+                  name: "image",
+                  widget: "image",
+                  media_folder: "/public/static/testimonials",
+                  required: false
+                }
+
       - label: "FAQ"
         name: "faq"
         file: "content/faq.md"
         i18n: true
         fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+            i18n: true
+          - label: "Intro"
+            name: "intro"
+            widget: "text"
+            i18n: true
           - label: "FAQ groups"
             name: "faqgroups"
             widget: list
@@ -46,29 +141,195 @@ collections:
                       { label: "Description", name: "description", widget: "markdown", i18n: true }
                     ]
                 }
-
-  - name: "cases"
-    label: "Cases"
-    i18n:
-      structure: multiple_folders
-    folder: "content/cases"
-    create: true
-    identifier_field: caseid
-    slug: "{{slug}}"
-    fields:
-      - { label: "Title", name: "title", widget: "string", i18n: true }
-      - { label: "Case ID", name: "caseid", widget: "string" }
-      - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Case closed", name: "closed", widget: "boolean" }
-      - { label: "Case link", name: "link", widget: "string" }
-      - { label: "Case lead", name: "caselead", widget: "string" }
-      - { label: "Image", name: "image", widget: "image", media_folder: "/public/static/cases", required: false }
-      - label: "Researchers"
-        name: "researchers"
-        widget: list
+      - label: "Volunteers"
+        name: "volunteers"
+        file: "content/volunteers.md"
+        i18n: true
         fields:
-          - { label: "Name", name: "name", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+          - label: "title"
+            name: "title"
+            widget: "string"
+            i18n: true
+          - label: "Intro"
+            name: "intro"
+            widget: "text"
+            i18n: true
+          - label: "Core Values Title"
+            name: "corevaluestitle"
+            widget: "string"
+            i18n: true
+          - label: "Core values"
+            name: "corevalues"
+            widget: "list"
+            i18n: true
+            fields:
+              - label: "title"
+                name: "title"
+                widget: "string"
+                i18n: true
+              - label: "description"
+                name: "description"
+                widget: "text"
+                i18n: true
+
+      - label: "Partners"
+        name: "partners"
+        file: "content/partners.md"
+        i18n: true
+        fields:
+          - label: "title"
+            name: "title"
+            widget: "string"
+            i18n: true
+          - label: "Intro"
+            name: "intro"
+            widget: "text"
+            i18n: true
+          - label: "Partners Title"
+            name: "partnerstitle"
+            widget: "string"
+            i18n: true
+          - label: "Partners Intro"
+            name: "partnersintro"
+            widget: "text"
+            i18n: true
+          - label: "Partner Quote"
+            name: "partnerquote"
+            widget: "object"
+            i18n: true
+            fields:
+              - { label: "Name", name: "name", widget: "string" }
+              - { label: "Website", name: "website", widget: "string" }
+              - { label: "Role", name: "role", widget: "string", i18n: true }
+              - { label: "Quote", name: "quote", widget: "text", i18n: true }
+              - { label: "Image", name: "image", widget: "image", media_folder: "/public/static/partners" }
+          - label: "Partners"
+            name: "partnerlist"
+            widget: "list"
+            i18n: true
+            fields:
+              - label: "name"
+                name: "name"
+                widget: "string"
+                i18n: true
+              - label: "description"
+                name: "description"
+                widget: "text"
+                i18n: true
+              - label: "website"
+                name: "website"
+                widget: "string"
+                i18n: true
+              - label: "Image"
+                name: "image"
+                widget: "image"
+                media_folder: "/public/static/partners"
+                required: false
+
+      - label: "Our proudest work"
+        name: "proudestwork"
+        file: "content/proudestwork.md"
+        i18n: true
+        fields:
+          - label: "title"
+            name: "title"
+            widget: "string"
+            i18n: true
+          - label: "Our proudest work"
+            name: "ourproudestwork"
+            widget: "relation"
+            collection: "articles"
+            search_fields: ["title", "case.caseid"]
+            value_field: "{{slug}}|{{title}}|{{image}}"
+            display_fields: ["title", "case.caseid"]
+            multiple: true
+
+      - label: "Our mission"
+        name: "mission"
+        file: "content/mission.md"
+        i18n: true
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+            i18n: true
+          - label: "Description"
+            name: "description"
+            widget: text
+            i18n: true
+          - label: "Members"
+            name: members
+            widget: string
+          - label: "Total cases"
+            name: totalcases
+            widget: string
+          - label: "Vulnerable ips"
+            name: ips
+            widget: string
+
+      - label: "Contact"
+        name: "contact"
+        file: "content/contact.md"
+        i18n: true
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+            i18n: true
+          - label: "Intro"
+            name: "intro"
+            widget: text
+            i18n: true
+          - label: "Form"
+            name: "form"
+            i18n: true
+            widget: "object"
+            fields:
+              - label: "Title"
+                name: "title"
+                widget: "string"
+                i18n: true
+              - label: "Description"
+                name: "description"
+                widget: "text"
+                i18n: true
+
+      - label: "Newsroom"
+        name: "newsroom"
+        file: "content/newsroom.md"
+        i18n: true
+        fields:
+          - label: "Title"
+            name: "title"
+            widget: "string"
+            i18n: true
+          - label: "Intro"
+            name: "intro"
+            widget: text
+            i18n: true
+          - label: "Newsletter link"
+            name: "newsletter"
+            widget: "string"
+          - label: "Opener"
+            name: "opener"
+            i18n: true
+            widget: "object"
+            fields:
+              - label: "Title"
+                name: "title"
+                widget: "string"
+                i18n: true
+              - label: "Description"
+                name: "description"
+                widget: "text"
+                i18n: true
+          - label: "highlight"
+            name: "highlight"
+            widget: "relation"
+            collection: "articles"
+            search_fields: ["title", "case.caseid"]
+            value_field: "{{slug}}|{{title}}|{{image}}"
+            display_fields: ["title", "case.caseid"]
 
   - name: "people"
     label: "People"
@@ -85,7 +346,7 @@ collections:
       - { label: "Bio", name: "bio", widget: "text", i18n: true }
       - { label: "Links", name: "links", widget: "list", fields: [{ label: "Link", name: "link", widget: "string" }] }
       - {
-          label: "Articles",
+          label: "Articles and cases",
           name: "articles",
           widget: "relation",
           collection: "articles",
@@ -95,20 +356,9 @@ collections:
           display_fields: ["title"],
           required: false
         }
-      - {
-          label: "Cases",
-          name: "cases",
-          widget: "relation",
-          collection: "cases",
-          multiple: true,
-          value_field: "{{slug}}|{{title}}",
-          search_fields: ["title", "caseid"],
-          display_fields: ["title", "caseid"],
-          required: false
-        }
 
-  - name: "articles"
-    label: "Articles"
+  - label: "Articles"
+    name: "articles"
     i18n:
       structure: multiple_folders
     folder: "content/articles"
@@ -117,13 +367,54 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string", i18n: true }
       - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Tag", name: "tag", widget: "select", options: ["case", "news", "updates", "culture"] }
+      - { label: "Intro", name: "intro", widget: "text", i18n: true }
+      - { label: "Image", name: "image", widget: "image", media_folder: "/public/static/articles", required: false }
       - {
           label: "Author",
           name: "author",
           widget: "relation",
           collection: "people",
-          value_field: "{{slug}}|{{name}}",
+          value_field: "{{slug}}|{{name}}{{image}}",
+          display_fields: ["name"],
           search_fields: ["name"],
           default: "string"
         }
+      - {
+          label: "case",
+          required: false,
+          name: "case",
+          widget: "object",
+          collapsed: true,
+          fields:
+            [
+              { label: "Case ID", name: "caseid", widget: "string", required: false },
+              { label: "Case closed", name: "closed", widget: "boolean", required: false },
+              { label: "Case link", name: "link", widget: "string", required: false },
+              {
+                label: "Case lead",
+                name: "caselead",
+                widget: "relation",
+                required: false,
+                collection: people,
+                value_field: "{{slug}}|{{name}}{{image}}",
+                display_fields: ["name"],
+                search_fields: ["name"],
+                default: "string"
+              },
+              {
+                label: "Researchers",
+                name: "researchers",
+                required: false,
+                widget: relation,
+                multiple: true,
+                collection: people,
+                value_field: "{{slug}}|{{name}}{{image}}",
+                display_fields: ["name"],
+                search_fields: ["name"],
+                default: "string"
+              }
+            ]
+        }
+
       - { label: "Body", name: "body", widget: "markdown", i18n: true }
