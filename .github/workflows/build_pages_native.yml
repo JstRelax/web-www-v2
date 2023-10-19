@@ -22,9 +22,7 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: html
-          path: 
-            - public/
-            - admin/
+          path: public/
       - name: Test HTML code
         uses: Cyb3r-Jak3/html5validator-action@v7.2.0
         with:
@@ -49,3 +47,4 @@ jobs:
         if:   ${{ github.ref == 'refs/heads/main' }}
         with:
           folder: admin # The folder the action should deploy.      
+
