@@ -12,12 +12,7 @@ in_progress: false
 teams:
   - title: Board
     description: The board of directors is responsible for strategic leadership of DIVD.
-    members:
-      - /who-we-are/team/people/eleonora-petridou
-      - /who-we-are/team/people/inge-bryan
-      - /who-we-are/team/people/joost-hendricksen
-      - /who-we-are/team/people/marinus-kuivenhoven
-      - /who-we-are/team/people/shairesh-algoe
+    members: []
   - title: Management
     description: Providing some sense of direction to a bunch of hackers, aka
       advanced cat herding.
@@ -135,10 +130,7 @@ teams:
   - title: Communications
     description: Translating l33tsp3ak to human and the other way around as well as
       maintaining this awesome website.
-    members:
-      - /who-we-are/team/people/gerard-janssen
-      - /who-we-are/team/people/heidi
-      - /who-we-are/team/people/marieke-smits
+    members: []
   - title: Governance, Risk & Compliance (GRC)
     description: ""
     members: []
