@@ -75,4 +75,5 @@ teams:
 
 
       The presence of the confidential advisors underscores the importance of open communication, addressing issues promptly, and upholding ethical standards. By offering this support system, DIVD aims to ensure that employees feel heard, supported, and empowered to address concerns without fear of reprisal. Also, DIVD intends to strengthen the trusted relationship, reassure employees that their concerns are taken seriously, and demonstrate its commitment to maintaining a workplace where integrity is paramount.
+    members: []
 ---
