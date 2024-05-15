@@ -17,7 +17,7 @@ teams:
     description: Providing some sense of direction to a bunch of hackers, aka
       advanced cat herding.
     members: []
-  - title: DIVD-CSIRT
+  - title: CSIRT
     description: The CSIRT is the engineblock of DIVD. It is responsible for
       scanning the internet and notifying the system owners as well as running
       our CVE Numbering Authority activities.
@@ -120,13 +120,7 @@ teams:
       - /who-we-are/team/people/winko
   - title: People & Culture
     description: ""
-    members:
-      - /who-we-are/team/people/astrid-oosenbrug
-      - /who-we-are/team/people/jan-los
-      - /who-we-are/team/people/kato-vierbergen
-      - /who-we-are/team/people/maartje-jackel
-      - /who-we-are/team/people/manon-de-graaf
-      - /who-we-are/team/people/roxane
+    members: []
   - title: Communications
     description: Translating l33tsp3ak to human and the other way around as well as
       maintaining this awesome website.
