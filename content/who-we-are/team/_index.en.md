@@ -17,7 +17,7 @@ teams:
     description: Providing some sense of direction to a bunch of hackers, aka
       advanced cat herding.
     members: []
-  - title: CSIRT
+  - title: DIVD-CSIRT
     description: The CSIRT is the engineblock of DIVD. It is responsible for
       scanning the internet and notifying the system owners as well as running
       our CVE Numbering Authority activities.
