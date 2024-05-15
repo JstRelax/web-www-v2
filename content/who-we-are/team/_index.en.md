@@ -164,8 +164,7 @@ teams:
       - /who-we-are/team/people/winko
   - title: Advisory board
     description: ""
-    members:
-      - /who-we-are/team/people/chantal-stekelenburg
+    members: []
   - title: Ethics Committee
     description: ""
     members: []
