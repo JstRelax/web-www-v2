@@ -69,9 +69,10 @@ teams:
       address concerns related to unwanted behaviors or integrity violations.
 
 
+
       Unwanted behaviors, such as exclusion, bullying, harassment, discrimination, and aggression, can have a detrimental impact on an individual’s well-being and the overall workplace environment. Similarly, integrity violations, encompassing actions like corruption, fraud, abuse of power, and disclosure of sensitive information, compromise the ethical foundation of an organization. DIVD acknowledges the severity of these issues and takes a proactive stance by not tolerating such behaviors.
 
 
+
       The presence of the confidential advisors underscores the importance of open communication, addressing issues promptly, and upholding ethical standards. By offering this support system, DIVD aims to ensure that employees feel heard, supported, and empowered to address concerns without fear of reprisal. Also, DIVD intends to strengthen the trusted relationship, reassure employees that their concerns are taken seriously, and demonstrate its commitment to maintaining a workplace where integrity is paramount.
-    members: []
 ---
