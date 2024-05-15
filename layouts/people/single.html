@@ -38,7 +38,7 @@
             <ul class="article-list">
               {{ range . }}
                 <li>
-                  {{ partial "svg/icon" "article" }}  <a href="{{ .url }}" target="_blank" class="external">{{ .title }} {{ partial "svg/icon" "external" }} </a>
+                  {{ partial "svg/icon" "article" }}  <a href="{{ .link }}" target="_blank" class="external">{{ .title }} {{ partial "svg/icon" "external" }} </a>
                 </li>
               {{ end }}
             </ul>
