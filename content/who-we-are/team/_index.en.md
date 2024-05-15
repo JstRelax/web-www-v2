@@ -21,28 +21,7 @@ teams:
     description: The CSIRT is the engineblock of DIVD. It is responsible for
       scanning the internet and notifying the system owners as well as running
       our CVE Numbering Authority activities.
-    members:
-      - /who-we-are/team/people/alwin-warringa
-      - /who-we-are/team/people/axel
-      - /who-we-are/team/people/barre-dijkstra
-      - /who-we-are/team/people/boaz-braaksma
-      - /who-we-are/team/people/celistine-oosting
-      - /who-we-are/team/people/edwin-van-vliet
-      - /who-we-are/team/people/fabian-bron
-      - /who-we-are/team/people/finn-van-der-knaap
-      - /who-we-are/team/people/jelle-ursem
-      - /who-we-are/team/people/jeroen-ellermeijer
-      - /who-we-are/team/people/jeroen-de-baare
-      - /who-we-are/team/people/kaj-koole
-      - /who-we-are/team/people/laurent-de-vries
-      - /who-we-are/team/people/lennaert
-      - /who-we-are/team/people/max-van-der-horst
-      - /who-we-are/team/people/oscar-vlugt
-      - /who-we-are/team/people/ralph-horn
-      - /who-we-are/team/people/stan-plasmeijer
-      - /who-we-are/team/people/victor-pasman
-      - /who-we-are/team/people/wessel-baltus
-      - /who-we-are/team/people/wessel-van-der-goot
+    members: []
   - title: Research & Development
     description: DIVD has two teams highly skilled security researchers who seek and
       report vulnerabilities as a voluntary service next to their jobs. DIVD
@@ -101,23 +80,7 @@ teams:
   - title: IT services
     description: Taking care of the IT of hackers in a non-hacky way so they don’t
       get hacked.
-    members:
-      - /who-we-are/team/people/bart-reedijk
-      - /who-we-are/team/people/bert-kiers
-      - /who-we-are/team/people/casper-kuijper
-      - /who-we-are/team/people/geert-langendam
-      - /who-we-are/team/people/jan-van-stijn
-      - /who-we-are/team/people/jeroen-van-der-broek
-      - /who-we-are/team/people/marco-heijkoop
-      - /who-we-are/team/people/nathan-van-buuren
-      - /who-we-are/team/people/raymond-schuiling
-      - /who-we-are/team/people/rob-blokland
-      - /who-we-are/team/people/ronald-beiboer
-      - /who-we-are/team/people/ruben-uithol
-      - /who-we-are/team/people/sigurd-hoenkamp-de-vries
-      - /who-we-are/team/people/tirza-dijkstra
-      - /who-we-are/team/people/waldo-de-borst
-      - /who-we-are/team/people/winko
+    members: []
   - title: People & Culture
     description: ""
     members: []
@@ -131,10 +94,12 @@ teams:
   - title: Project Office
     description: ""
     members: []
+  - title: Helpdesk
   - title: Advisory board
     description: ""
     members: []
   - title: Ethics Committee
     description: ""
     members: []
+  - title: Confidentiality Officers
 ---
