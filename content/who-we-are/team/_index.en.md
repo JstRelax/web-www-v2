@@ -101,23 +101,7 @@ teams:
   - title: IT services
     description: Taking care of the IT of hackers in a non-hacky way so they don’t
       get hacked.
-    members:
-      - /who-we-are/team/people/bart-reedijk
-      - /who-we-are/team/people/bert-kiers
-      - /who-we-are/team/people/casper-kuijper
-      - /who-we-are/team/people/geert-langendam
-      - /who-we-are/team/people/jan-van-stijn
-      - /who-we-are/team/people/jeroen-van-der-broek
-      - /who-we-are/team/people/marco-heijkoop
-      - /who-we-are/team/people/nathan-van-buuren
-      - /who-we-are/team/people/raymond-schuiling
-      - /who-we-are/team/people/rob-blokland
-      - /who-we-are/team/people/ronald-beiboer
-      - /who-we-are/team/people/ruben-uithol
-      - /who-we-are/team/people/sigurd-hoenkamp-de-vries
-      - /who-we-are/team/people/tirza-dijkstra
-      - /who-we-are/team/people/waldo-de-borst
-      - /who-we-are/team/people/winko
+    members: []
   - title: People & Culture
     description: ""
     members: []
@@ -135,6 +119,7 @@ teams:
     description: ""
     members: []
   - title: Ethics Committee
-    description: ""
+    description: Guardians of the fine line between hacking for good, and the dark
+      side. The ethical consciousness of the DIVD.
     members: []
 ---
