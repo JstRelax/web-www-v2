@@ -18,6 +18,10 @@ teams:
       - /who-we-are/team/people/joost-hendricksen
       - /who-we-are/team/people/marinus-kuivenhoven
       - /who-we-are/team/people/shairesh-algoe
+  - title: Management
+    description: Providing some sense of direction to a bunch of hackers, aka
+      advanced cat herding.
+    members: []
   - title: DIVD-CSIRT
     description: The CSIRT is the engineblock of DIVD. It is responsible for
       scanning the internet and notifying the system owners as well as running
@@ -137,31 +141,10 @@ teams:
       - /who-we-are/team/people/marieke-smits
   - title: Governance, Risk & Compliance (GRC)
     description: ""
-    members:
-      - /who-we-are/team/people/alexia-ronda
-      - /who-we-are/team/people/dennis-kussendrager
-      - /who-we-are/team/people/filip-chyla
-      - /who-we-are/team/people/ferdinand-uittenbogaard
-      - /who-we-are/team/people/frank-breedijk
-      - /who-we-are/team/people/peter-baard
-  - title: Office
-    description: Providing some sense of direction to a bunch of hackers, aka
-      advanced cat herding.
-    members:
-      - /who-we-are/team/people/chris-van-t-hof
-      - /who-we-are/team/people/h-meuris
-      - /who-we-are/team/people/rob-gerritsen
+    members: []
   - title: Project Office
     description: ""
-    members:
-      - /who-we-are/team/people/caroline-loef
-      - /who-we-are/team/people/dimitri-van-esch
-      - /who-we-are/team/people/dirk-maij
-      - /who-we-are/team/people/henry-schokkenbroek
-      - /who-we-are/team/people/marten-gerssen
-      - /who-we-are/team/people/tirza-dijkstra
-      - /who-we-are/team/people/victor-gevers-1
-      - /who-we-are/team/people/winko
+    members: []
   - title: Advisory board
     description: ""
     members: []
