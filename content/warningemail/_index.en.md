@@ -7,9 +7,12 @@ intro: "Whenever a vulnerability is found, we open a case and create a
 csirt:
   title: Our researchers looking for vulnerabilities
   description: >-
-    CSIRT: Computer Security Incident Response Team
-
-    The CSIRT handles the scanning for and disclosing of vulnerabilities, either discovered by DIVD researchers or third parties and warning people for leaked credentials and operates our CVE Numbering Authority (CNA) capability
+    Our CSIRT (Computer Security Incident Response Team) takes care of DIVD's
+    vulnerability disclosure process. These vulnerabilities may be discovered by
+    our own DIVD researchers, or come from signals from third parties. CSIRT
+    initiates scanning for vulnerabilities, and reporting vulnerable systems to
+    their respective owners. CSIRT also operates DIVD's CVE Numbering Authority
+    (CNA).
 
 
     **Only owners of vulnerable instances receive a notification with the host information and mitigation steps.**
@@ -17,9 +20,9 @@ csirt:
 stepbystep:
   title: Step by step of what you should do
   description: >
-    If you've received an notification (email) from our CSIRT,  check whether
-    the email address contains @divd.nl. This could be csirt@divd.nl or a
-    nameofresearchers@divd.nl. Some of our researchers prefer to send
+    If you've received a notification (email) from our CSIRT,  check whether the
+    email address contains @divd.nl. This could be csirt@divd.nl or a
+    nameofresearcher@divd.nl. Some of our researchers prefer to send
     notifications from their personal account. 
   link: https://csirt.divd.nl
   steps:
