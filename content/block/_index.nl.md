@@ -3,10 +3,7 @@ ethics:
   title: Ethics
   intro: Lorem ipsum
 proudestwork:
-  ourproudestwork:
-    - /newsroom/articles/test-article-with-image
-    - /newsroom/articles/test-case
-    - /newsroom/articles/test-article
+  ourproudestwork: []
   title: Our proudest work
 mission:
   title: Our mission

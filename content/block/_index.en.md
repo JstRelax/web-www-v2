@@ -2,16 +2,14 @@
 Title: Blocks
 ethics:
   title: Ethics at the base of everything we do
-  intro: As we work on sensitive data, gathered without informed consent, we
-    established this Code of Conduct to provide an ethical base for the work we
-    do. This code can also be used by other researchers working on what is
-    currently referred to as responsible disclosure, or coordinated
-    vulnerability disclosure.
+  intro: Our Code of Conduct defines the ethical rules that the entire
+    organisation complies with in their activities for DIVD. This code may be
+    used as inspiration for other researchers working in responsible
+    disclosure/coordinated vulnerability disclosure.
 proudestwork:
   ourproudestwork:
+    - /newsroom/articles/another-test-article
     - /newsroom/articles/online-test-article
-    - /newsroom/articles/test-case
-    - /newsroom/articles/test-article-with-image
   title: Our proudest work
 mission:
   title: Our mission
