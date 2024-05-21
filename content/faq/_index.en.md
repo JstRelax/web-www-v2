@@ -55,9 +55,9 @@ faqgroups:
       - description: |-
           * J﻿oin us
           * P﻿ut security.txt on your website
-          * T﻿ake actions after you've received an notification
-          * b﻿ecome a partner or make a donation
-        title: How can we contribute this initiative?
+          * T﻿ake actions after you've received a notification
+          * B﻿ecome a partner or make a donation
+        title: How can we contribute to this initiative?
   - heading: Become a volunteer
     faqs:
       - title: "When can I join DIVD as a volunteer? "
