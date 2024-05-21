@@ -1,6 +1,6 @@
 ---
 title: Contact
-opener: How to get in contact with us
+opener: How to get in contact with us.
 intro: We are a group of volunteers that scout the web for potential cyber
   security risks.
 form:
