@@ -1,5 +1,5 @@
 ---
-title: Ivanti
+title: "CASE: IVANTI"
 date: 2024-05-28T17:54:00.000Z
 tag: case
 intro: The DIVD helped notifying users of Ivanti software.
