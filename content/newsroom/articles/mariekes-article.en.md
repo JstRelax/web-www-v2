@@ -1,6 +1,6 @@
 ---
 title: "MARIEKE'S ARTICLE "
-date: 2024-05-29T10:35:00.000Z
+date: 2024-05-29T10:40:00.000Z
 tag: case
 intro: LoremIpsum lalalalalal
 case:
