@@ -2,8 +2,8 @@
 title: FAQ-2
 opener: Dit is de nieuwe FAQ Marieke, niet aan de oude zitten.
 intro: Introtekst voor de nieuwe FAQ lalalala
-button_text: All FAQ
-button_url: ccess.divd.network/user_devices
+button_text: Go to casefile
+button_url: https://csirt.divd.nl/
 faqgroups:
   - heading: English
     faqs:
