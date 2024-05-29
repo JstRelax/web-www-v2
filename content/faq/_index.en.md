@@ -1,63 +1,16 @@
 ---
-title: Frequently asked questions
-opener: In case you still have any questions, we have listed the most frequently
-  asked questions for you.
+title: "Dynamic FAQ section, an extra FAQ "
+opener: An extra FAQ section
 intro: "If this F.A.Q. doesn't answer your question, please do not hesitate to
   contact us. We'll do our best to answer your question to the best of our
   knowledge. "
+button_text: all FAQ
+button_url: https://csirt.divd.nl/
 faqgroups:
-  - heading: Home
+  - heading: English
     faqs:
-      - title: Is it legal what DIVD is doing?
-        description: "The Dutch jurisprudence is clear: if you serve a societal need
-          with appropriate means, you are allowed to perform these small hacks
-          in order to prevent the real damaging hacks. Our way of working is
-          approved by the Dutch Public Prosecution Office the National Cyber
-          Security Center."
-      - title: Why did I receive an email from DIVD / CSIRT?
-        description: >-
-          If we find a vulnerability, we'll set up a case with all the details
-          we know and how to patch this vulnerability. Then we scan known IP
-          adresses to see if they're vulernable and if that's the case we'll
-          send out an email to every vulnerable IP adress. 
-
-
-          O﻿ur emails are personally written by one of our researchers and contain a link to the casefile on the [csirt.divd.nl ](csirt.divd.nl)site.
-      - title: Who works for DIVD?
-        description: >-
-          Most of our volunteers work in cybersecurity as their daily job, this
-          could be at a comercial security company, government or as a
-          freelancer. Some of our volunteers don't work in security at all but
-          have great interest in making the digital world safer. 
-
-
-          A﻿ll of our volunteers are screened and provided an certificate of conduct. Our code of conduct is sacred, we do not deviate from it.
-      - description: Anything that is classified as high risk / high impact. We
-          prioritize the vulnerabilities we work on by various metrics, for
-          instance how big the exposure on the internet is and if it is being
-          actively abused or not.
-        title: What type of vulnerabilities do you notify?
-      - description: J﻿oin DIVD as a volunteer or as a partner, put security.txt on your
-          website, take action after you've received a notification email or
-          make a donation.
-        title: How can we contribute this initiative?
-  - heading: Contact
-    faqs:
-      - title: Why did I receive an email from DIVD / CSIRT?
-        description: >-
-          If we find a vulnerability, we'll set up a case with all the details
-          we know and how to patch this vulnerability. Then we scan known IP
-          adresses to see if they're vulernable and if that's the case we'll
-          send out an email to every vulnerable IP adress. 
-
-
-          O﻿ur emails are personally written by one of our researchers and contain a link to the casefile on the [csirt.divd.nl ](csirt.divd.nl)site.
-      - description: |-
-          * J﻿oin us
-          * P﻿ut security.txt on your website
-          * T﻿ake actions after you've received a notification
-          * b﻿ecome a partner or make a donation
-        title: How can we contribute to this initiative?
+      - title: Vraag 1
+        description: antwoord 1
   - heading: Become a volunteer
     faqs:
       - title: "When can I join DIVD as a volunteer? "
