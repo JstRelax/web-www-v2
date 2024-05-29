@@ -31,31 +31,8 @@ faqgroups:
 
 
           A﻿ll of our volunteers are screened and provided an certificate of conduct. Our code of conduct is sacred, we do not deviate from it.
-  - heading: Become a partner
+  - heading: German - Deutsch
     faqs:
-      - title: How can I help?
-        description: Please check our partner page for more information
-  - heading: Notification email
-    faqs:
-      - description: >-
-          If we find a vulnerability, we'll set up a case with all the details
-          we know and how to patch this vulnerability. Then we scan known IP
-          adresses to see if they're vulernable and if that's the case we'll
-          send out an email to every vulnerable IP adress. 
-
-
-          O﻿ur emails are personally written by one of our researchers and contain a link to the casefile on the [https://csirt.divd.nl/ ](https://csirt.divd.nl/)site. 
-
-
-          Learn more about what to do when you receive an email. <https://www.divd.nl/warningemail/>
-        title: Why did I receive an email of DIVD / CSIRT?
-      - title: Who works for DIVD?
-        description: >-
-          Most of our volunteers work in cybersecurity as their daily job, this
-          could be at a comercial security company, government or as a
-          freelancer. Some of our volunteers don't work in security at all but
-          have great interest in making the digital world safer. 
-
-
-          A﻿ll of our volunteers are screened and provided an certificate of conduct. Our code of conduct is sacred, we do not deviate from it.
+      - title: Vraag 1
+        description: Antwoord 1
 ---
