@@ -11,7 +11,7 @@ faqgroups:
     faqs:
       - title: Vraag 1
         description: antwoord 1
-  - heading: Become a volunteer
+  - heading: Dutch - Nederlands
     faqs:
       - title: "When can I join DIVD as a volunteer? "
         description: I﻿ndividuals of all kinds of backgrounds and genders are most
