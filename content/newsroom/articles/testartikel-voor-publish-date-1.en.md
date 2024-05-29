@@ -1,6 +1,6 @@
 ---
 title: Testartikel voor publish date 1
-date: 2024-05-29T21:47:00.000Z
+date: 2024-05-29T22:24:00.000Z
 tag: case
 intro: tekstlalalalala
 faq_enabled: true
