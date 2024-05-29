@@ -1,9 +1,8 @@
 ---
 title: "MARIEKE'S ARTICLE "
-date: 2024-05-29T10:08:00.000Z
+date: 2024-05-29T10:35:00.000Z
 tag: case
 intro: LoremIpsum lalalalalal
-image: /images/articles/screenshot-2023-10-12-at-14.26.31-3-.png
 case:
   caseid: DIVD-0000-0000
   link: https://csirt.divd.nl/
@@ -12,7 +11,6 @@ case:
     - label: Frank Breedijk
       link: https://csirt.divd.nl/
   leadlink: https://csirt.divd.nl/
-faq_enabled: true
 faq:
   title: F.A.Q.
   intro: Lorem ipsum dolor sit amet consectetur. Sagittis volutpat risus euismod
@@ -39,5 +37,7 @@ faq:
         - title: "Vraag 2 "
           description: Antwoord lalalalla
   opener: Wat is een FAQ opener?
+faq_enabled: true
+image: /images/articles/screenshot-2023-10-12-at-14.26.31-3-.png
 ---
 Lorem Ipsum lalalalala
