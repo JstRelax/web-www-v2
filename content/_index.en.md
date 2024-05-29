@@ -7,7 +7,7 @@ intro: >-
 
   tralallala
 fold:
-  showcase: /newsroom/articles/mariekes-article
+  showcase: /newsroom/articles/_index
   received: Received an e-mail from us? Don’t worry! Learn more here.
   received_alt: Image of an envelope
   family: Become part of DIVD and help us protect the digital world
