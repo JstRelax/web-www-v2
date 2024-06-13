@@ -43,6 +43,11 @@ jobs:
 #        with:
 #          name: html5validator_log
 #          path: log.log
+      - name: Modify .htacess for staging
+        if:   ${{ github.ref == 'refs/heads/staging' }} 
+        run: |
+           sed -i 's#www\.divd#staging.divd#' public/.htaccess
+           sed -i 's#\-2024#-staging#g'       public/.htaccess
       - name: rsync deploy staging
         uses: burnett01/rsync-deployments@5.2.1
         if:   ${{ github.ref == 'refs/heads/staging' }} # && ( success() || failure() ) # Remove the && clause when a HTML check is flawless
