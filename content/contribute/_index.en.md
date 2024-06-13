@@ -42,11 +42,29 @@ donatesupp:
   customlink: https://supp.to/divdnl/donate
 donatepaypal:
   label: Donate via Paypal
-  link: https://paypal.nl/divd
+  link: https://paypal.com/donate/?hosted_button_id=U5MRM5XSH36BG
 donatebanktransfer:
   label: Donate via banktransfer
-  link: https://bank.nl
+  link: "mailto: question@divd.nl"
 donations:
+  - date: 2024-03-27
+    amount: € 5.000
+    by: Cyber Defence Group / ESET Netherlands
+  - date: 2024-02-14
+    amount: € 3.000
+    by: Kloris BV
+  - date: 2024-01-02
+    amount: € 1.000
+    by: Secura
+  - date: 2023-12-30
+    amount: € 1.000
+    by: Secura
+  - date: 2023-09-21
+    amount: € 20.000
+    by: Kloris BV
+  - date: 2023-07-13
+    amount: €10.000
+    by: Cyber Defense Group / ESET Netherlands
   - date: 2022-03-01T13:30:50.143Z
     amount: $10.000
     by: MSP CFO
@@ -65,10 +83,7 @@ donations:
   - date: 2021-12-01T13:36:06.127Z
     amount: $100.000
     by: Huntress
-  - date: 2021-12-01T13:36:32.561Z
-    amount: "1.400"
-    by: J.R. Prins van Os
-  - date: 2024-04-19T12:36:54.588Z
+  - date: 2020-04-19
     amount: €10.000
     by: Stichting SIDN fonds
 ---

@@ -14,14 +14,32 @@ teams:
     description: The board of directors is responsible for strategic leadership of DIVD.
     members: []
   - title: Management
-    description: Providing some sense of direction to a bunch of hackers, aka
-      advanced cat herding.
-    members: []
   - title: DIVD-CSIRT
     description: The CSIRT is the engineblock of DIVD. It is responsible for
       scanning the internet and notifying the system owners as well as running
       our CVE Numbering Authority activities.
-    members: []
+    members:
+      - /who-we-are/team/people/alwin-warringa
+      - /who-we-are/team/people/axel
+      - /who-we-are/team/people/barre-dijkstra
+      - /who-we-are/team/people/boaz-braaksma
+      - /who-we-are/team/people/celistine-oosting
+      - /who-we-are/team/people/edwin-van-vliet
+      - /who-we-are/team/people/fabian-bron
+      - /who-we-are/team/people/finn-van-der-knaap
+      - /who-we-are/team/people/jelle-ursem
+      - /who-we-are/team/people/jeroen-ellermeijer
+      - /who-we-are/team/people/jeroen-de-baare
+      - /who-we-are/team/people/kaj-koole
+      - /who-we-are/team/people/laurent-de-vries
+      - /who-we-are/team/people/lennaert
+      - /who-we-are/team/people/max-van-der-horst
+      - /who-we-are/team/people/oscar-vlugt
+      - /who-we-are/team/people/ralph-horn
+      - /who-we-are/team/people/stan-plasmeijer
+      - /who-we-are/team/people/victor-pasman
+      - /who-we-are/team/people/wessel-baltus
+      - /who-we-are/team/people/wessel-van-der-goot
   - title: Research & Development
     description: DIVD has two teams highly skilled security researchers who seek and
       report vulnerabilities as a voluntary service next to their jobs. DIVD
@@ -36,17 +54,55 @@ teams:
   - title: IT services
     description: Taking care of the IT of hackers in a non-hacky way so they don’t
       get hacked.
-    members: []
+    members:
+      - /who-we-are/team/people/bart-reedijk
+      - /who-we-are/team/people/bert-kiers
+      - /who-we-are/team/people/casper-kuijper
+      - /who-we-are/team/people/geert-langendam
+      - /who-we-are/team/people/jan-van-stijn
+      - /who-we-are/team/people/jeroen-van-der-broek
+      - /who-we-are/team/people/marco-heijkoop
+      - /who-we-are/team/people/nathan-van-buuren
+      - /who-we-are/team/people/raymond-schuiling
+      - /who-we-are/team/people/rob-blokland
+      - /who-we-are/team/people/ronald-beiboer
+      - /who-we-are/team/people/ruben-uithol
+      - /who-we-are/team/people/sigurd-hoenkamp-de-vries
+      - /who-we-are/team/people/tirza-dijkstra
+      - /who-we-are/team/people/waldo-de-borst
+      - /who-we-are/team/people/winko
   - title: People & Culture
     description: ""
-    members: []
+    members:
+      - /who-we-are/team/people/astrid-oosenbrug
+      - /who-we-are/team/people/jan-los
+      - /who-we-are/team/people/kato-vierbergen
+      - /who-we-are/team/people/maartje-jackel
+      - /who-we-are/team/people/manon-de-graaf
+      - /who-we-are/team/people/roxane
   - title: Communications
     description: Translating l33tsp3ak to human and the other way around as well as
       maintaining this awesome website.
-    members: []
+    members:
+      - /who-we-are/team/people/gerard-janssen
+      - /who-we-are/team/people/heidi
+      - /who-we-are/team/people/marieke-smits
   - title: Governance, Risk & Compliance (GRC)
     description: ""
-    members: []
+    members:
+      - /who-we-are/team/people/alexia-ronda
+      - /who-we-are/team/people/dennis-kussendrager
+      - /who-we-are/team/people/filip-chyla
+      - /who-we-are/team/people/ferdinand-uittenbogaard
+      - /who-we-are/team/people/frank-breedijk
+      - /who-we-are/team/people/peter-baard
+  - title: Office
+    description: Providing some sense of direction to a bunch of hackers, aka
+      advanced cat herding.
+    members:
+      - /who-we-are/team/people/chris-van-t-hof
+      - /who-we-are/team/people/h-meuris
+      - /who-we-are/team/people/rob-gerritsen
   - title: Project Office
     description: ""
     members: []
@@ -54,26 +110,6 @@ teams:
     description: ""
     members: []
   - title: Ethics Committee
-    description: Guardians of the fine line between hacking for good, and the dark
-      side. The ethical consciousness of the DIVD.
-    members: []
-  - title: Confidentiality Officers
-    description: >-
-      DIVD continuously strives to be a safe and healthy organization, where
-      everyone feels at home. Creating a workplace where individuals feel
-      secure, included, valued, trusted and respected is crucial for fostering a
-      positive and productive atmosphere. Maintaining such an environment is
-      essential for the well-being and professional development of our
-      workforce. Therefore DIVD has appointed confidential advisors, by which we
-      aim to provide employees with a dedicated and trustworthy channel to
-      address concerns related to unwanted behaviors or integrity violations.
-
-
-
-      Unwanted behaviors, such as exclusion, bullying, harassment, discrimination, and aggression, can have a detrimental impact on an individual’s well-being and the overall workplace environment. Similarly, integrity violations, encompassing actions like corruption, fraud, abuse of power, and disclosure of sensitive information, compromise the ethical foundation of an organization. DIVD acknowledges the severity of these issues and takes a proactive stance by not tolerating such behaviors.
-
-
-
-      The presence of the confidential advisors underscores the importance of open communication, addressing issues promptly, and upholding ethical standards. By offering this support system, DIVD aims to ensure that employees feel heard, supported, and empowered to address concerns without fear of reprisal. Also, DIVD intends to strengthen the trusted relationship, reassure employees that their concerns are taken seriously, and demonstrate its commitment to maintaining a workplace where integrity is paramount.
+    description: ""
     members: []
 ---
