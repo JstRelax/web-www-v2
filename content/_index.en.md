@@ -5,7 +5,7 @@ intro: "We aim to make the digital world safer by reporting vulnerabilities we
   find in digital systems to the people who can fix them. "
 fold:
   showcase: /newsroom/articles/operation-endgame-divd-2024-00019
-  received: Received an E-mail from us? Don’t worry! Learn more here.
+  received: Received an E-mail from us? Don’t worry!
   received_alt: Image of an envelope
   family: Become part of DIVD and help us protect the digital world
   family_alt: Picture of group of people depicting the DIVD family
@@ -30,18 +30,17 @@ whatwedo:
   t3: 0 Day disclosure
 helpushelpyou:
   title: Help us, help you!
-  description: >-
-    Make our work easier by putting our security.txt in the code of
-          your website and our IP 194.5.73.0-255 on your allow list. This way you
-          make sure that our research team can look for vulnerabilities without
-          alarming your cyber security systems. And we know who to talk to when we
-          find vulnerabilities.
+  description: Make our work easier by putting our security.txt in the code of
+    your website and our IP 194.5.73.0-255 on your allow list. This will ensure
+    that our research team can search for vulnerabilities without triggering
+    your cybersecurity systems. Additionally, it will provide us with the
+    appropriate contact information when vulnerabilities are discovered.
 volunteer:
   title: Want to become a volunteer?
   checklist:
     - item: "Become part of the hacker community with Ethical Hackers, CISO's &
-        researchers "
+        Researchers "
     - item: Develop yourself, we provide very cool stuff at our e-learningplatform
-    - item: Activities, a party so now and then and a lifetime stock of DIVD stickers
-        & other merch
+    - item: Activities, a party so now and then, and a lifetime stock of DIVD stickers
+        & exclusive merchandise
 ---
