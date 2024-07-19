@@ -4,7 +4,7 @@ opener: A watchful eye in the digital world
 intro: "We aim to make the digital world safer by reporting vulnerabilities we
   find in digital systems to the people who can fix them. "
 fold:
-  showcase: /newsroom/articles/operation-endgame-divd-2024-00019
+  showcase: /newsroom/articles/_index
   received: Received an E-mail from us? Don’t worry!
   received_alt: Image of an envelope
   family: Become part of DIVD and help us protect the digital world
@@ -27,16 +27,17 @@ whatwedo:
     and for free. "
   t1: Scan the internet for vulnerabilities
   t2: Reporting the vulnerability to the right people
-  t3: 0 Day disclosure
+  t3: 0-Day disclosure
 helpushelpyou:
-  title: Help us, help you!
+  title: Security.txt. Small effort, big effect!
   description: Make our work easier by putting our security.txt in the code of
     your website and our IP 194.5.73.0-255 on your allow list. This will ensure
     that our research team can search for vulnerabilities without triggering
     your cybersecurity systems. Additionally, it will provide us with the
     appropriate contact information when vulnerabilities are discovered.
 volunteer:
-  title: Want to become a volunteer?
+  title: Want to join us in making the digital world a safer place? Become a
+    volunteer!
   checklist:
     - item: "Become part of the hacker community with Ethical Hackers, CISO's &
         Researchers "
