@@ -36,7 +36,10 @@ We streven ernaar de digitale wereld veiliger te maken door kwetsbaarheden die w
 * [Jaarverslag 2021](/documents/DIVD%20jaarverslag%202021.pdf)
 * [Standaardformulier ANBI](/documents/Standaardformulier%20ANBI.pdf)
 
+```
+<hr>
 
+```
 
 ***Purpose of the foundation*** 
 
