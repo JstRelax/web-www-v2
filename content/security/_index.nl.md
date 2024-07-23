@@ -3,7 +3,7 @@ title: Verantwoord Melden van Kwetsbaarheden (Responsible Disclosure)
 ---
 **Algemeen**
 
-Bij DIVD heeft de veiligheid van onze systemen de hoogste prioriteit. Ondanks onze inspanningen kunnen er kwetsbaarheden in onze systemen voorkomen. Als u toch een kwetsbaarheid ontdekt, informeer ons dan zodat we actie kunnen ondernemen om deze te verhelpen. Wij waarderen uw hulp bij het beschermen van onze systemen. 
+Bij DIVD heeft de veiligheid van onze systemen de hoogste prioriteit. Ondanks onze inspanningen kunnen er kwetsbaarheden in onze systemen voorkomen. Als u toch een kwetsbaarheid ontdekt, informeer ons dan zodat we actie kunnen ondernemen om deze te verhelpen. Wij waarderen je hulp bij het beschermen van onze systemen. 
 
 **Doe het volgende:**
 
@@ -31,7 +31,7 @@ Stuur de bevindingen naar ons toe via de volgende URL: <https://app.zerocopter.c
 
 * We reageren liefst binnen drie werkdagen op je melding en geven je een evaluatie van de melding en een geschatte oplostijd.
 * Als je je hebt gehouden aan de richtlijnen van ons Responsible Disclosure-beleid, zullen we geen juridische stappen tegen je ondernemen met betrekking tot het rapport.
-* We zullen je persoonlijke informatie niet delen met derden zonder uw toestemming, behalve wanneer dit nodig is om te voldoen aan een wettelijke verplichting.
+* We zullen je persoonlijke informatie niet delen met derden zonder je toestemming, behalve wanneer dit nodig is om te voldoen aan een wettelijke verplichting.
 * Meldingen kunnen onder een pseudoniem of anoniem worden gedaan.
 * We houden je op de hoogte van de voortgang van het oplossen van het probleem.
 * In alle openbare informatie over het gemelde probleem zullen we je vermelden als de ontdekker (tenzij je een andere voorkeur hebt).
@@ -42,6 +42,15 @@ Stuur de bevindingen naar ons toe via de volgende URL: <https://app.zerocopter.c
 
 De volgende systemen vallen expliciet binnen de scope van DIVD. Als je een kwetsbaarheid ontdekt in een systeem waarvan je denkt dat het ons toebehoort maar niet hier is vermeld, zullen wij dit per geval beoordelen.
 
+* ```
+  as50559.com
+  ```
+* ```
+  divd.nl
+  ```
+* ```
+  as50559.org
+  ```
 * ```
   divd.academy
   ```
