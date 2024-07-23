@@ -13,36 +13,34 @@ Submit your findings by using the following URL: <https://app.zerocopter.com/en
 
 * Report the vulnerability as quickly as reasonably possible, to minimize the risk of hostile actors finding and exploiting it.
 * Report in a manner that safeguards the confidentiality of the report, so that others do not gain access to the information.
-* Provide sufficient information to reproduce the problem, so we will be able to resolve it. Usually, the IP address or the URL of the affected system and a description of the vulnerability is sufficient. Complex vulnerabilities may require further explanation.
+* Provide enough details to reproduce the issue so that we can address it effectively. Typically, the IP address or URL of the affected system and a description of the vulnerability will suffice. However, more complex vulnerabilities might need additional explanation.
 
 **Don’ts:**
 
-* Reveal the vulnerability or problem to others until it has been resolved.
-* Build your own backdoor in an information system with the intention of using it to demonstrate the vulnerability, because doing so can cause additional damage and create unnecessary security risks.
-* Exploit the vulnerability further than necessary to confirm its existence.
-* Copy, modify or delete data on the vulnerable system. Instead, you can create a directory listing of the system as an alternative.
-* Make changes to the vulnerable system.
-* Repeatedly gain access to the vulnerable system or sharing access to the vulnerable system with others.
-* Use brute force attacks, attacks on physical security, utilizing social engineering, initiating distributed denial of service, disseminating spam, or use third-party applications to gain access to the vulnerable system.
-* Access or attempt to access any data or information that does not belong to you.
-* Destroy or corrupt, or attempt to destroy or corrupt any data or information that does not belong to you.
+* Do not reveal the vulnerability or weakness to others until it has been resolved.
+* Do not create your own backdoor in the system to demonstrate the vulnerability, as this can cause additional damage and introduce unnecessary security risks.
+* Do not exploit the vulnerability beyond what is necessary to confirm its existence.
+* Do not copy, modify, or delete data on the vulnerable system. Instead, create a directory listing of the system as an alternative.
+* Do not make changes to the vulnerable system.
+* Do not repeatedly access the vulnerable system or share access with others.
+* Do not use brute force attacks, physical security breaches, social engineering, distributed denial of service attacks, spam, or third-party applications to gain access to the vulnerable system.
+* Do not access or attempt to access any data or information that does not belong to you.
+* Do not destroy, corrupt, or attempt to destroy or corrupt any data or information that does not belong to you.
 
 **What we promise:**
 
-* We will respond to your report within three business days, providing our evaluation of the report and an expected resolution date.
-* If you have followed the instructions of the Responsible Disclosure policy, we will not take any legal action against you concerning the report.
-* We will not pass on your personal details to third parties without your permission, unless it is necessary to comply with a legal obligation.
-* It is possible to report under a pseudonym or anonymous.
-* We will keep you informed of the progress towards resolving the problem.
-* In the public information concerning the reported problem, we will give your name as the discoverer of the problem (unless you desire otherwise).
-* We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication on the problem after it is resolved.
-* This Responsible Disclosure policy is based on an example written by Floor Terra and the Responsible Disclosure Guideline of the NCSC.
+* We will respond to your report within three business days, providing an evaluation of the report and an estimated resolution date.
+* If you have adhered to the guidelines of our Responsible Disclosure policy, we will not take any legal action against you regarding the report.
+* We will not share your personal information with third parties without your consent, except when necessary to fulfill a legal obligation.
+* Reporting can be done under a pseudonym or anonymously.
+* We will keep you updated on the progress of resolving the issue.
+* In any public information about the reported issue, we will credit you as the discoverer (unless you prefer otherwise).
+* We aim to resolve all issues as quickly as possible and are eager to participate in the public disclosure of the problem once it is resolved.
+* This Responsible Disclosure policy is based on an example provided by Floor Terra and the Responsible Disclosure Guideline of the NCSC.
 
-**Scope**
+**In-Scope Systems**
 
-In Scope systems
-
-Our following assets are explicitly in scope, if you find a vulnerability in a system you believe belongs to us but is not listed here we will review this on a case-by-case basis.
+The following assets are explicitly within the scope of DIVD. If you discover a vulnerability in a system that you believe belongs to us but is not listed here, we will review it on a case-by-case basis.
 
 * ```
   divd.nl
