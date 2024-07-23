@@ -1,9 +1,9 @@
 ---
 title: Home
-opener: A watchful eye in the digital world
-intro: "Wij maken de digitale wereld veiliger door te scannen naar
-  kwetsbaarheden in digitale systemen en deze vervolgens te melden aan de mensen
-  die deze kunnen oplossen. "
+opener: Een waakzame speler in de digitale wereld
+intro: Het is ons doel om de digitale veiligheid te verbeteren door
+  kwetsbaarheden die we ontdekken in digitale systemen te melden aan partijen
+  die ze kunnen aanpakken en oplossen.
 fold:
   showcase: /newsroom/articles/_index
   received: Heb je een email van ons csirt team ontvangen? Lees hier verder
