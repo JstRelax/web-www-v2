@@ -1,7 +1,7 @@
 ---
 title: ANBI
 ---
-[](/documents/Standaardformulier%20ANBI.pdf)ANBI (Algemeen Nut Beogende Instelling)
+## [](/documents/Standaardformulier%20ANBI.pdf)ANBI (Algemeen Nut Beogende Instelling)
 
 STICHTING DUTCH INSTITUTE FOR VULNERABILITY DISCLOSURE (DIVD)
 
