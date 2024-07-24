@@ -1,6 +1,6 @@
 ---
 title: Home
-opener: Een waakzame speler in de digitale wereld
+opener: Een waakzame entiteit in de digitale wereld
 intro: Het is ons doel om de digitale veiligheid te verbeteren door
   kwetsbaarheden die we ontdekken in digitale systemen te melden aan partijen
   die ze kunnen aanpakken en oplossen.
