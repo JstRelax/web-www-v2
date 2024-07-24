@@ -1,7 +1,7 @@
 ---
 title: Home
 opener: A watchful eye in the digital world
-intro: Our goal is to make the digital world safer by reporting vulnerabilities
+intro: Our goal is to enhance digital security by reporting the vulnerabilities
   we discover in digital systems to those who can address and resolve them.
 fold:
   showcase: /newsroom/articles/_index
