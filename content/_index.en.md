@@ -30,11 +30,13 @@ whatwedo:
   t3: 0-Day disclosure
 helpushelpyou:
   title: Security.txt. Small effort, big effect!
-  description: Make our work easier by putting our security.txt in the code of
-    your website and our IP 194.5.73.0-255 on your allow list. This will ensure
-    that our research team can search for vulnerabilities without triggering
-    your cybersecurity systems. Additionally, it will provide us with the
-    appropriate contact information when vulnerabilities are discovered.
+  description: Simplify our work by adding our security.txt file to your website's
+    code and including our IP range (194.5.73.0-255) on your allow list. This
+    will enable our research team to search for vulnerabilities without setting
+    off your cybersecurity systems. It will also provide us with the correct
+    contact information when we discover vulnerabilities. The implementation is
+    straightforward, requiring only the creation and publication of a text file
+    on the server. See securitytxt.org for more information.
 volunteer:
   title: Want to join us in making the digital world a safer place? Become a
     volunteer!

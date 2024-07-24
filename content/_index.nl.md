@@ -33,15 +33,15 @@ whatwedo:
 helpushelpyou:
   title: Security.txt. Kleine moeite, groot effect!
   description: Maak ons werk gemakkelijker door onze security.txt in de code van
-    je website te zetten en ons IP 194.5.73.055 op je allow list. Dit zorgt
+    je website te zetten en ons IP 194.5.73.0-255 op je allow list. Dit zorgt
     ervoor dat ons research team naar kwetsbaarheden kan zoeken zonder je
     cyberbeveiligingssystemen te activeren. Bovendien voorziet het ons van de
-    juiste contactinformatie wanneer er kwetsbaarheden worden ontdekt.
+    juiste contactinformatie wanneer er kwetsbaarheden worden ontdekt. Bekijk
+    securitytxt.org voor meer informatie.
 volunteer:
-  title: Wil je samen met ons de digitale wereld veiliger maken? Wordt vrijwilliger!
+  title: Wil je samen met ons de digitale wereld veiliger maken? Word vrijwilliger!
   checklist:
-    - item: Wordt onderdeel van een community van Ethical Hackers, CISO's &
-        researchers
+    - item: Word onderdeel van een community van Ethical Hackers, CISO's & researchers
     - item: Ontwikkel jezelf, we bieden heel cool materiaal op ons e-learningplatform
     - item: Activiteiten, een feestje zo nu en dan, en een levenslange voorraad DIVD
         stickers & exclusieve merchandise
