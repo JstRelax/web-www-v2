@@ -218,10 +218,12 @@ collections:
         name: "button_text"
         widget: "string"
         i18n: true
+        required: false
       - label: "Button url"
         name: "button_url"
         widget: "string"
         i18n: true
+        required: false
       - label: "FAQ groups"
         name: "faqgroups"
         widget: list
@@ -1162,6 +1164,7 @@ collections:
             public_folder: "/images/whoweare"
             media_folder: "/assets/images/whoweare"
             required: false
+            i18n: true
 
   # PAGE: !The Team #####################################################
   - name: "team"
