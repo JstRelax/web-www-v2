@@ -217,10 +217,12 @@ collections:
         name: "button_text"
         widget: "string"
         i18n: true
+        required: false
       - label: "Button url"
         name: "button_url"
         widget: "string"
         i18n: true
+        required: false
       - label: "FAQ groups"
         name: "faqgroups"
         widget: list
@@ -461,6 +463,7 @@ collections:
       - label: "Newsletter link"
         name: "newsletter"
         widget: "string"
+        i18n: true
       - label: "Starter"
         name: "starter"
         i18n: true
