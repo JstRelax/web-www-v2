@@ -76,6 +76,7 @@ collections:
               public_folder: "/images/",
               media_folder: "/assets/images/",
               required: true,
+              i18n: true
             }
           - {
               label: t1_alt,
@@ -91,6 +92,7 @@ collections:
               public_folder: "/images/",
               media_folder: "/assets/images/",
               required: true,
+              i18n: true
             }
           - {
               label: t2_alt,
@@ -106,6 +108,7 @@ collections:
               public_folder: "/images/",
               media_folder: "/assets/images/",
               required: true,
+              i18n: true
             }
           - {
               label: t3_alt,
@@ -215,10 +218,12 @@ collections:
         name: "button_text"
         widget: "string"
         i18n: true
+        required: false
       - label: "Button url"
         name: "button_url"
         widget: "string"
         i18n: true
+        required: false
       - label: "FAQ groups"
         name: "faqgroups"
         widget: list
