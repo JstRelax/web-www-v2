@@ -1,12 +1,15 @@
 ---
-title: The importance of DIVD’s work to the community is important, here is why
-opener: The importance of DIVD’s work to the community is important, here is why
-intro: Working for DIVD, we aim to make the digital world safer by reporting
+title: DIVD's work is of great importance
+opener: DIVD's work is of great importance
+intro: >-
+  Working for DIVD, we aim to make the digital world safer by reporting
   vulnerabilities we find in digital systems to the people who can mitigate
-  them. But what are exactly are (zero-day) vulnerabilities, and why is it so
-  important to find them as soon as possible?
+  them. 
+
+
+  But what are exactly are (zero-day) vulnerabilities, and why is it so important to find them as soon as possible? Find these (and other) frequently used cyber security definitions on this page.
 leftblock:
-  image: images/global/becomevolunteer.png
+  image: ""
   alt: null
   content: >-
     ## **What exactly is a security vulnerability?** 
@@ -24,7 +27,7 @@ leftblock:
     Resolving vulnerabilities is typically a matter of ensuring bug-free code and keeping systems updated with the most recent security patches. Despite the apparent simplicity of these solutions, a significant number of organisations remain vulnerable. What could be the reason for this?
   learnmore: /
 rightblock:
-  image: images/global/becomevolunteer.png
+  image: ""
   alt: null
   content: >-
     ## **Introducing; the zero-day vulnerability (or 0-day)**
