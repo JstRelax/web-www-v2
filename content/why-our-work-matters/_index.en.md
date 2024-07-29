@@ -11,7 +11,7 @@ leftblock:
   image: ""
   alt: null
   content: >-
-    # **Security Vulnerability**
+    ## **Security Vulnerability**
 
 
     According to [NIST](https://csrc.nist.gov/glossary/term/vulnerability#:~:text=Definitions%3A,triggered%20by%20a%20threat%20source.) (National Institute of Standards and Technology), a vulnerability is a “w*eakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.*”
@@ -29,7 +29,7 @@ rightblock:
   image: ""
   alt: null
   content: >-
-    # **Zero-day Vulnerability**
+    ## **Zero-day Vulnerability**
 
 
     Ideally, a discovered vulnerability is directly reported to the vendor. The vendor rewards the finder (often via a bug bounty program) and agrees with the finder to keep the software vulnerability a secret. The vendor then creates a patch and (periodically) releases updates containing one or more security patches. Thus, the vendor is aware of the issue and provides a fix. 
