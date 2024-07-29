@@ -1307,10 +1307,12 @@ collections:
         name: "title"
         widget: "string"
         default: "Why our work matters"
+        required: false
         i18n: true
       - label: "Intro"
         name: "intro"
         widget: text
+        required: false
         i18n: true
       - label: "Left content block"
         name: "leftblock"
