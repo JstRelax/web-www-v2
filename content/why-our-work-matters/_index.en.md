@@ -93,7 +93,7 @@ belowwoordenboek: >-
 
   **Security.txt**\
 
-  Security.txt is a proposed standard for websites to provide a clear and consistent way for security researchers to report security vulnerabilities. It involves placing a simple text file named security.txt in the well-known location /.well-known/ directory of a website (e.g., https://example.com/.well-known/security.txt). This file contains contact information and other details that guide researchers on how to responsibly disclose security issues to the organization. 
+  Security.txt is a proposed standard for websites to provide a clear and consistent way for security researchers to report security vulnerabilities. It involves placing a simple text file named security.txt in the well-known location /.well-known/ directory of a website (e.g., https://example.com/.well-known/security.txt). This file contains contact information and other details that guide researchers on how to responsibly disclose security issues to the organization. Wanna make DIVD's work easier? Put our [security.txt](https://securitytxt.org/) in the code of your website and our IP 194.5.73.0-255 on your allow list. 
 
 
   **Types of vulnerabilities**\
