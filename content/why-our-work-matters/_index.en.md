@@ -1,6 +1,6 @@
 ---
-title: DIVD's work is of great importance
-opener: DIVD's work is of great importance
+title: DIVD's work is of great importance, here is why
+opener: DIVD's work is of great importance, here is why
 intro: >-
   Working for DIVD, we aim to make the digital world safer by reporting
   vulnerabilities we find in digital systems to the people who can mitigate
