@@ -1308,10 +1308,6 @@ collections:
         widget: "string"
         default: "Why our work matters"
         i18n: true
-      - label: "Opener"
-        name: "opener"
-        widget: "string"
-        i18n: true
       - label: "Intro"
         name: "intro"
         widget: text
@@ -1323,7 +1319,7 @@ collections:
         fields:
           - label: "Content"
             name: "content"
-            widget: markdown
+            widget: "markdown"
             i18n: true
           - {
               label: "Image",
@@ -1352,7 +1348,7 @@ collections:
         fields:
           - label: "Content"
             name: "content"
-            widget: markdown
+            widget: "markdown"
             i18n: true
           - {
               label: "Image",
@@ -1374,7 +1370,18 @@ collections:
             widget: "string"
             required: false
             i18n: true
-      - { label: "Body", name: "body", widget: "markdown", i18n: true }
+      - label: "Content Title"
+        name: "contenttitle"
+        widget: "markdown"
+        i18n: true
+      - label: "Body"
+        name: "body"
+        widget: "markdown"
+        i18n: true
+      - label: "Below woordenboek"
+        name: "belowwoordenboek"
+        widget: "markdown"
+        i18n: true
 
   ########################################################################
   # CONTENT BLOCKS
