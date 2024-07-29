@@ -1324,7 +1324,7 @@ collections:
         fields:
           - label: "Content"
             name: "content"
-            widget: text
+            widget: "markdown"
             i18n: true
           - {
               label: "Image",
@@ -1353,7 +1353,7 @@ collections:
         fields:
           - label: "Content"
             name: "content"
-            widget: text
+            widget: "markdown"
             i18n: true
           - {
               label: "Image",
@@ -1375,6 +1375,7 @@ collections:
             widget: "string"
             required: false
             i18n: true
+      - { label: "Body", name: "body", widget: "markdown", i18n: true }
 
   ########################################################################
   # CONTENT BLOCKS
