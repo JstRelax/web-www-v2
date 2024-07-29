@@ -12,7 +12,7 @@ leftblock:
   image: ""
   alt: null
   content: >-
-    ### **What exactly is a security vulnerability?**
+    ## **What exactly is a vulnerability?**
 
 
     According to NIST (National Institute of Standards and Technology), a vulnerability is a “weakness in an information system, system security procedures, internal controls, or implementation that could be exploited by a threat source.”
@@ -30,7 +30,7 @@ rightblock:
   image: ""
   alt: null
   content: >-
-    ### **Introducing; the zero-day vulnerability (or 0-day)**
+    ## **Introducing; the zero-day vulnerability**
 
 
     Ideally, a discovered vulnerability is directly reported to the vendor. The vendor rewards the finder (often via a bug bounty program) and agrees with the finder to keep the software vulnerability a secret. The vendor then creates a patch and (periodically) releases updates containing one or more security patches. Thus, the vendor is aware of the issue and provides a fix. 
@@ -44,7 +44,7 @@ rightblock:
 main:
   title: More text here
 ---
-### DIVD’s efforts are invaluable to society for several reasons
+## DIVD’s efforts are invaluable to society for several reasons
 
 First of all, DIVD scans for both known ánd zero-day vulnerabilities. When vulnerable URLs or systems are detected, we send the owners of the website or system a notification email. 
 
