@@ -11,7 +11,7 @@ leftblock:
   image: ""
   alt: null
   content: >-
-    ## **What exactly is a vulnerability?**
+    # **Security Vulnerability**
 
 
     According to NIST (National Institute of Standards and Technology), a vulnerability is a “weakness in an information system, system security procedures, internal controls, or implementation that could be exploited by a threat source.”
@@ -26,19 +26,22 @@ rightblock:
   image: ""
   alt: null
   content: >-
-    ## **Introducing; the zero-day vulnerability**
+    # **Zero-day Vulnerability**
 
 
     Ideally, a discovered vulnerability is directly reported to the vendor. The vendor rewards the finder (often via a bug bounty program) and agrees with the finder to keep the software vulnerability a secret. The vendor then creates a patch and (periodically) releases updates containing one or more security patches. Thus, the vendor is aware of the issue and provides a fix. 
 
 
-    However, sometimes a “zero-day vulnerability” occurs. A zero-day vulnerability is a specific type of security flaw that is unknown to the software developers or the wider security community at the time it is discovered by hackers. Because the vulnerability is not yet known, no one can properly protect against it. 
+    However, sometimes a “zero-day vulnerability” occurs. A zero-day (0-day) vulnerability is a specific type of security flaw that is unknown to the software developers or the wider security community at the time it is discovered by hackers. Because the vulnerability is not yet known, no one can properly protect against it. 
 
 
     Returning to the house analogy, imagine advertising on the internet that you’ve left your front door open while you’re away for the weekend.
 
 
     🤓 *The term ‘zero-day’ reflects that the developers had zero days to develop a fix.*
+
+
+    🤓 *Eternal Blue is a very infamous zero-day exploit that was originally was developed by the NSA and later leaked by a hacking group. It was used in the [WannaCry ransomware attack](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack), which affected hundreds of thousands of computers worldwide.*
   learnmore: null
 belowwoordenboek: >-
   **Availability**\
