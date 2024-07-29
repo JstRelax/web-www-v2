@@ -12,7 +12,7 @@ leftblock:
   image: ""
   alt: null
   content: >-
-    ## **What exactly is a security vulnerability?** 
+    ## **What exactly is a security vulnerability?**
 
 
     According to NIST (National Institute of Standards and Technology), a vulnerability is a “weakness in an information system, system security procedures, internal controls, or implementation that could be exploited by a threat source.”
@@ -44,20 +44,12 @@ rightblock:
 main:
   title: More text here
 ---
-### DIVD scans for both known ánd zero-day vulnerabilities. When vulnerable URLs or systems are detected, we send the owners of the website or system a notification email. 
+## DIVD’s efforts are invaluable to society for several reasons
+
+First of all, DIVD scans for both known ánd zero-day vulnerabilities. When vulnerable URLs or systems are detected, we send the owners of the website or system a notification email. 
 
 Furthermore, DIVD is a CVE Numbering Authority (CNA), which means that when we identify new (previously unknown) vulnerabilities we can request the assignment of unique identifiers (CVEs). 
 
-This is why the DIVD plays a crucial role in the global cybersecurity ecosystem.
+Besides all this effort, DIVD complements the work of other CSIRTs by focusing on proactive vulnerability disclosure and awareness. This approach helps in preventing cyber attacks and contributes to a safer digital world. 
 
-It complements the work of other CSIRTs by focusing on proactive vulnerability disclosure and awareness. This approach helps in preventing cyber attacks and contributes to a safer digital world. 
-
-**DIVD’s efforts are invaluable to society for several reasons:**
-
-* Cybersecurity: DIVD plays a crucial role in identifying and mitigating cybersecurity threats, protecting both individuals and organizations from potential harm.
-* Awareness: By raising awareness about cybersecurity issues, DIVD helps educate the public and businesses on how to protect themselves online.
-* Collaboration: DIVD collaborates with various stakeholders, including governments and private sectors, to enhance overall cybersecurity measures.
-* Innovation: Through research and development, DIVD contributes to the advancement of new technologies and strategies to combat cyber threats.
-* Support: DIVD provides support and resources to those affected by cyber incidents, helping them recover and strengthen their defenses.
-
-These efforts collectively contribute to a safer and more secure digital environment, benefiting society as a whole.
+In summary, DIVD plays a crucial role in identifying and mitigating cybersecurity threats, protecting both individuals and organizations from potential harm. By raising awareness about cybersecurity vulnerabilities and weaknesses, DIVD helps educate the public and businesses on how to protect themselves online.
