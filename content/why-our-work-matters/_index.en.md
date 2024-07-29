@@ -1,22 +1,60 @@
 ---
-title: Why our work matters
-opener: Why our work matters
-intro: DIVD is a non-profit organisation run by volunteers, and a network of
-  likeminded organisations. We’d love for you to sign up as a volunteer.
+title: The importance of DIVD’s work to the community is important, here is why
+opener: The importance of DIVD’s work to the community is important, here is why
+intro: Working for DIVD, we aim to make the digital world safer by reporting
+  vulnerabilities we find in digital systems to the people who can mitigate
+  them. But what are exactly are (zero-day) vulnerabilities, and why is it so
+  important to find them as soon as possible?
 leftblock:
-    image: images/global/becomevolunteer.png
-    alt:
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at enim mauris. Integer ornare dictum ultrices. In congue nunc sed dui facilisis, ac condimentum mi finibus. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur et orci ligula. Quisque orci velit, dapibus et libero ornare, commodo porttitor tellus. Aenean nec tempus turpis. Duis quis ipsum id risus iaculis accumsan. Nullam tempor justo sed ante rhoncus scelerisque.
-    learnmore: /
+  image: images/global/becomevolunteer.png
+  alt: null
+  content: >-
+    ## **What exactly is a security vulnerability?** 
+
+
+    According to NIST (National Institute of Standards and Technology), a vulnerability is a “weakness in an information system, system security procedures, internal controls, or implementation that could be exploited by a threat source.”
+
+
+    Essentially, a security vulnerability is a weakness or flaw in a computer system, network, or software that can be exploited by cyber attackers to gain unauthorized access or cause damage. Examples of vulnerabilities can be software bugs, or systems that lack the latest security updates. Think of it like a crack in the foundation of a house: if left unfixed, it can be a way for intruders to get inside. 
+
+
+    If an organisation doesn't address vulnerabilities, the consequences can be severe, ranging from financial losses to irreparable damage to its reputation. 
+
+
+    Resolving vulnerabilities is typically a matter of ensuring bug-free code and keeping systems updated with the most recent security patches. Despite the apparent simplicity of these solutions, a significant number of organisations remain vulnerable. What could be the reason for this?
+  learnmore: /
 rightblock:
-    image: images/global/becomevolunteer.png
-    alt:
-    content: Quisque eleifend bibendum nibh, id auctor sem feugiat eu. Duis aliquet dolor eu scelerisque consequat. Proin sagittis elit sed arcu euismod auctor. Mauris quis semper tellus. Etiam porttitor augue at sem vulputate gravida sed et libero. Curabitur urna metus, tempus in semper vitae, consequat vel libero. Etiam a quam interdum, feugiat dui eget, ullamcorper magna. Maecenas eu libero varius lorem blandit convallis quis in magna. Praesent a odio lacinia, dignissim eros eget, iaculis libero. Mauris bibendum pretium rutrum. Curabitur ultricies mollis consequat. Ut a purus est. Sed ac convallis odio, eget placerat justo. Morbi gravida ipsum eget imperdiet ultrices. Pellentesque semper sem eget augue imperdiet mollis. Quisque sollicitudin cursus nulla eu accumsan.
-    learnmore:
+  image: images/global/becomevolunteer.png
+  alt: null
+  content: >-
+    ## **Introducing; the zero-day vulnerability (or 0-day)**
+
+
+    Ideally, a discovered vulnerability is directly reported to the vendor. The vendor rewards the finder (often via a bug bounty program) and agrees with the finder to keep the software vulnerability a secret. The vendor then creates a patch and (periodically) releases updates containing one or more security patches. Thus, the vendor is aware of the issue and provides a fix. 
+
+
+    However, sometimes a “zero-day vulnerability” occurs. A zero-day vulnerability is a specific type of security flaw that is unknown to the software developers or the wider security community at the time it is discovered by hackers. Because the vulnerability is not yet known, no one can properly protect against it. Returning to the house analogy, imagine advertising on the internet that you’ve left your front door open while you’re away for the weekend.
+
+
+    🤓 *The term ‘zero-day’ reflects that the developers had zero days to develop a fix.*
+  learnmore: null
 main:
-    title: More text here
+  title: More text here
 ---
+### DIVD scans for both known ánd zero-day vulnerabilities. When vulnerable URLs or systems are detected, we send the owners of the website or system a notification email. 
 
-Quisque dolor ex, venenatis a vestibulum eget, egestas vitae justo. Aenean laoreet ex metus, eget consequat enim malesuada et. Donec tincidunt justo in condimentum commodo. Vestibulum ullamcorper tempus nisi quis suscipit. Ut id ante odio. Phasellus consequat vel ex id tristique. Phasellus est nulla, pulvinar vel massa iaculis, placerat tempus urna. Sed fringilla odio quis dapibus interdum. Nunc consectetur quam et ligula sagittis, vitae finibus velit congue. Aenean feugiat faucibus dignissim. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+Furthermore, DIVD is a CVE Numbering Authority (CNA), which means that when we identify new (previously unknown) vulnerabilities we can request the assignment of unique identifiers (CVEs). 
 
-Morbi et sollicitudin tortor. Sed et ipsum consequat, pretium ligula vitae, tincidunt massa. Vestibulum tincidunt orci arcu, vitae suscipit orci mollis et. Maecenas convallis eu lorem a blandit. Suspendisse fringilla ante nunc, ut aliquam mauris pharetra semper. Suspendisse leo libero, facilisis nec finibus eu, cursus et nisl. Cras eget nibh nunc. Curabitur congue magna in sem imperdiet imperdiet sit amet at nulla. Aliquam placerat urna magna, dignissim maximus nisi vehicula vel. Vestibulum ipsum elit, fermentum nec lacinia ut, pharetra in mauris. Curabitur volutpat semper nisi, et accumsan dolor elementum non. Morbi tincidunt sodales risus et suscipit.
+This is why the DIVD plays a crucial role in the global cybersecurity ecosystem.
+
+It complements the work of other CSIRTs by focusing on proactive vulnerability disclosure and awareness. This approach helps in preventing cyber attacks and contributes to a safer digital world. 
+
+**DIVD’s efforts are invaluable to society for several reasons:**
+
+* Cybersecurity: DIVD plays a crucial role in identifying and mitigating cybersecurity threats, protecting both individuals and organizations from potential harm.
+* Awareness: By raising awareness about cybersecurity issues, DIVD helps educate the public and businesses on how to protect themselves online.
+* Collaboration: DIVD collaborates with various stakeholders, including governments and private sectors, to enhance overall cybersecurity measures.
+* Innovation: Through research and development, DIVD contributes to the advancement of new technologies and strategies to combat cyber threats.
+* Support: DIVD provides support and resources to those affected by cyber incidents, helping them recover and strengthen their defenses.
+
+These efforts collectively contribute to a safer and more secure digital environment, benefiting society as a whole.
