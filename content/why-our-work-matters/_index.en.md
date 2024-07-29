@@ -119,10 +119,10 @@ main:
   title: More text here
 contenttitle: "## DIVD’s efforts are invaluable to society for several reasons"
 ---
-First of all, DIVD scans for both known ánd zero-day vulnerabilities. When vulnerable URLs or systems are detected, we send the owners of the website or system a notification email. 
+✨ First of all, DIVD scans for both known ánd zero-day vulnerabilities. When vulnerable URLs or systems are detected, we send the owners of the website or system a notification email. 
 
-Furthermore, DIVD is a CVE Numbering Authority (CNA), which means that when we identify new (previously unknown) vulnerabilities we can request the assignment of unique identifiers (CVEs). 
+✨ Furthermore, DIVD is a CVE Numbering Authority (CNA), which means that when we identify new (previously unknown) vulnerabilities we can request the assignment of unique identifiers (CVEs). 
 
-Besides all this effort, DIVD complements the work of other CSIRTs by focusing on proactive vulnerability disclosure and awareness. This approach helps in preventing cyber attacks and contributes to a safer digital world. 
+✨ Besides all this effort, DIVD complements the work of other CSIRTs by focusing on proactive vulnerability disclosure and awareness. This approach helps in preventing cyber attacks and contributes to a safer digital world. 
 
-In summary, DIVD plays a crucial role in identifying and mitigating cybersecurity threats, protecting both individuals and organizations from potential harm. By raising awareness about cybersecurity vulnerabilities and weaknesses, DIVD helps educate the public and businesses on how to protect themselves online.
+✨ In summary, DIVD plays a crucial role in identifying and mitigating cybersecurity threats, protecting both individuals and organizations from potential harm. By raising awareness about cybersecurity vulnerabilities and weaknesses, DIVD helps educate the public and businesses on how to protect themselves online.
