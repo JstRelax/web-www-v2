@@ -1,11 +1,10 @@
 ---
-title: Why our work matters
-opener: Why our work is of societal importance and cannot be overlooked.
-intro: >-
-  ## **Why our work is of societal importance and cannot be overlooked.**
-
-
-  Working for DIVD, we aim to make the digital world safer by reporting vulnerabilities we find in digital systems to the people who can fix them. But what does this mean?
+title: The importance of DIVD’s work to the community is important, here is why
+opener: The importance of DIVD’s work to the community is important, here is why
+intro: Working for DIVD, we aim to make the digital world safer by reporting
+  vulnerabilities we find in digital systems to the people who can mitigate
+  them. But what are exactly are (zero-day) vulnerabilities, and why is it so
+  important to find them as soon as possible?
 leftblock:
   image: images/global/becomevolunteer.png
   alt: null
