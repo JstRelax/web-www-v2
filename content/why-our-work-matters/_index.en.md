@@ -14,13 +14,16 @@ leftblock:
     # **Security Vulnerability**
 
 
-    According to NIST (National Institute of Standards and Technology), a vulnerability is a “weakness in an information system, system security procedures, internal controls, or implementation that could be exploited by a threat source.”
+    According to [NIST](https://csrc.nist.gov/glossary/term/vulnerability#:~:text=Definitions%3A,triggered%20by%20a%20threat%20source.) (National Institute of Standards and Technology), a vulnerability is a “w*eakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.*”
 
 
-    Essentially, a security vulnerability is a weakness or flaw in a computer system, network, or software that can be exploited by cyber attackers to gain unauthorized access or cause damage. Examples of vulnerabilities can be software bugs, or systems that lack the latest security updates. Think of it like a crack in the foundation of a house: if left unfixed, it can be a way for intruders to get inside. 
+    Essentially, a security vulnerability is a weakness or flaw in a computer system, network, or software that can be exploited by cyber attackers to gain unauthorized access or cause damage. Examples of vulnerabilities can be software bugs, or systems that lack the latest security updates. 
 
 
-    If an organisation doesn't address vulnerabilities, the consequences can be severe, ranging from financial losses to irreparable damage to its reputation. Resolving vulnerabilities is typically a matter of ensuring bug-free code and keeping systems updated with the most recent security patches. Despite the apparent simplicity of these solutions, a significant number of organisations remain vulnerable. What could be the reason? This is (among other things) due to the existence of zero-day vulnerabilities.
+    Let’s compare a system vulnerability to a misplaced or broken lock, using the analogy of a house. Inside your house, you keep your valuable belongings and sensitive secrets. If there’s a hole in the wall or the doors are accidentally left unlocked, it provides an opportunity for intruders to get inside.
+
+
+    If an organisation doesn't find and mitigate vulnerabilities, the consequences can be severe, ranging from financial losses to irreparable damage to its reputation.
   learnmore: /
 rightblock:
   image: ""
