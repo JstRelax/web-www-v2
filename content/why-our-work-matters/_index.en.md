@@ -35,10 +35,10 @@ rightblock:
     Ideally, a discovered vulnerability is directly reported to the vendor. The vendor rewards the finder (often via a bug bounty program) and agrees with the finder to keep the software vulnerability a secret. The vendor then creates a patch and (periodically) releases updates containing one or more security patches. Thus, the vendor is aware of the issue and provides a fix. 
 
 
-    However, sometimes a “zero-day vulnerability” occurs. A zero-day (0-day) vulnerability is a specific type of security flaw that is unknown to the software developers or the wider security community at the time it is discovered by hackers. Because the vulnerability is not yet known, no one can properly protect against it. 
+    However, sometimes a “zero-day vulnerability” occurs. A zero-day (0-day) vulnerability is a specific type of security flaw that is unknown to the software developers and the security community at the time it is discovered by hackers. Because the vulnerability is not yet known, no one can properly protect against it. 
 
 
-    Returning to the house analogy, imagine advertising on the internet that you’ve left your front door open while you’re away for the weekend.
+    Returning to the house analogy, imagine advertising on the internet that you’ve left your front door open while you’re away for the weekend. Because you are away, you can not protect your house and all your precious belongings. 
 
 
     🤓 *The term ‘zero-day’ reflects that the developers had zero days to develop a fix.*
@@ -49,7 +49,7 @@ rightblock:
 belowwoordenboek: >-
   **Availability**\
 
-  At DIVD, we adhere to the ‘Principle of Proportionality’ and the ‘Principle of Subsidiarity’, as described in our Code of Conduct. This means that our research should increase and not decrease the integrity and availability of any and all online systems. If several means are available to meet the need, we opt for the one which has the least impact on the availability of the systems and services.
+  At DIVD, we adhere to the ‘Principle of Proportionality’ and the ‘Principle of Subsidiarity’, as described in our [Code of Conduct](https://www.divd.nl/what-we-do/code-of-conduct/). This means that our research should increase and not decrease the integrity and availability of any and all online systems. If several means are available to meet the need, we opt for the one which has the least impact on the availability of the systems and services.
 
 
   **Case**\
@@ -70,22 +70,22 @@ belowwoordenboek: >-
 
   **Confidentiality**\
 
-  At DIVD, we work with sensitive data every day. Think about lists of IP addresses, types of vulnerabilities found, contact information, and metadata (e.g. timestamps, scripts, researchers working on the data). The members of DIVD take all precautions necessary to protect the confidentiality of this data.
+  At DIVD, we work with sensitive data every day. Think about lists of IP addresses, types of vulnerabilities found, contact information, and metadata (e.g. timestamps, scripts, researchers working on the data). [The members of DIVD](https://www.divd.nl/who-we-are/team/) take all precautions necessary to protect the confidentiality of this data.
 
 
   **(Ethical) Hacker / White Hat Hacker**\
 
-  DIVD members belong to the “white hat” hackers. A white hat hacker is someone who breaks into a computer system with positive intentions. The aim is to detect security breaches. The term ‘white hat’ comes from cowboy movies in which the hero always wore a white hat. A whitehat hacker is also called an ethical hacker. Our members are skilled professionals that must always operate within legal boundaries. Please read our code of conduct for more information. 
+  DIVD members belong to the “white hat” hackers. A white hat hacker is someone who breaks into a computer system with positive intentions, without disrupting any services or processes. The motivation of a white hat hacker is to detect security vulnerabilities, without misusing or exploiting them. A white hat hacker is sometimes also referred to as an ethical hacker. Our members are skilled professionals that must always operate within legal boundaries. Please read our [Code of Conduct](https://www.divd.nl/what-we-do/code-of-conduct/) for more information. *The term ‘white hat’ comes from cowboy movies in which the hero always wore a white hat.*
 
 
   **Exploit**\
 
-  An exploit is a malicious application or script that can be used to take advantage of a system's vulnerability. At DIVD, we don’t use or run intrusive exploits to verify the existence of a vulnerability in a system. Destructive commands like “$ rm -rf /” or testing for denial of service are not permitted in any scenario. If several means are available to meet the need, we opt for the one which has the least impact on the availability of the systems and services.
+  An exploit is a malicious application, piece of code or script that can be used to take advantage of a system's vulnerability. At DIVD, we don’t use or run intrusive exploits to verify the existence of a vulnerability in a system. Destructive commands like “$ rm -rf /” or testing for denial of service are not permitted in any scenario. If several means are available to meet the need, we opt for the one which has the least impact on the availability of the systems and services. 
 
 
   **Responsible disclosure**\
 
-  In cybersecurity, responsible disclosure refers to the procedure where a security analyst, ethical hacker, or ethical hacker organisation such as DIVD notifies an organisation about a detected vulnerability in its systems or software. This notification is done in such a way that the organisation has the opportunity to mitigate the weakness before it becomes public knowledge and possibly misused by hackers with malicious intentions. By privately notifying organisations, they can address the vulnerabilities before they are exploited by malicious hackers, thereby improving the security of their systems.
+  In cybersecurity, responsible disclosure refers to the procedure where a security analyst, ethical hacker, or ethical hacker organisation such as DIVD notifies an organisation about a detected vulnerability in its systems or software. Notifying is done in such a way that the organisation has the opportunity to mitigate the weakness before it becomes public knowledge and possibly misused by hackers with malicious intentions. By privately notifying organisations, they can address the vulnerabilities before they are exploited by malicious hackers, thereby improving the security of their systems.
 
 
   Responsible disclosure helps protect users, maintains trust between (DIVD) researchers and organisations, and contributes to the ongoing improvement of cybersecurity practices.
@@ -98,7 +98,7 @@ belowwoordenboek: >-
 
   **Types of vulnerabilities**\
 
-  There are different types of vulnerabilities. Since DIVD scans IP addresses over the public internet, we mainly focus on web-based vulnerabilities. A good example of a database filled with web-based vulnerabilities is The OWASP Top 10.
+  There are different types of vulnerabilities. Since DIVD scans IP addresses over the public internet, we mainly focus on web-based vulnerabilities. A good example of a database filled with web-based vulnerabilities is The [OWASP Top 10](https://owasp.org/www-project-top-ten/).
 
 
   **Vulnerability versus exploit**\
