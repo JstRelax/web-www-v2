@@ -1313,7 +1313,7 @@ collections:
         i18n: true
       - label: "Intro"
         name: "intro"
-        widget: text
+        widget: "markdown"
         i18n: true
       - label: "Left content block"
         name: "leftblock"
@@ -1322,7 +1322,7 @@ collections:
         fields:
           - label: "Content"
             name: "content"
-            widget: text
+            widget: "markdown"
             i18n: true
           - {
               label: "Image",
@@ -1351,7 +1351,7 @@ collections:
         fields:
           - label: "Content"
             name: "content"
-            widget: text
+            widget: "markdown"
             i18n: true
           - {
               label: "Image",
