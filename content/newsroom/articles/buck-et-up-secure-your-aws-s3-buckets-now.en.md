@@ -22,8 +22,6 @@ Each S3 bucket can hold a virtually unlimited number of objects. You probably wo
 
 When an S3 bucket is visible to everyone on the public internet when it shouldn’t be, it’s called a misconfiguration. Such misconfigurations can turn a private repository of sensitive data into a goldmine for cybercriminals. So, what happens if you accidentally forget to secure your AWS S3 bucket? 
 
-
-
 ## Risks and consequences of misconfigured buckets
 
 If an S3 bucket is left publicly accessible, anyone can access the data inside. When cybercriminals gain access to confidential or sensitive information, it results in a data breach. This is one of the most severe and likely consequences of an exposed S3 bucket. Depending on the data stored, a data breach can lead to reputational damage, regulatory penalties, and intellectual property theft. In the worst cases, it can also result in identity theft, financial loss, and competitive disadvantages.
@@ -63,11 +61,12 @@ Activate logging and monitoring features like AWS CloudTrail and Amazon S3 serve
 * [Logging requests with server access logging](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ServerLogs.html)
 * [Logging Amazon S3 API calls using AWS CloudTrail](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cloudtrail-logging.html)
 
-### ✅ Encrypt your data at rest and in transit
+### \
+✅ Encrypt your data at rest and in transit
 
 Use server-side encryption (SSE) or client-side encryption to protect your data at rest. Ensure data in transit is encrypted using HTTPS to prevent interception.
 
-### ✅ Conduct regular security audits of your AWS environment 
+### ✅ Conduct regular security audits of your AWS environment
 
 Regular security audits can be used to identify and remediate potential vulnerabilities. To simplify compliance auditing and security analysis, you can enable [AWS Config](https://docs.aws.amazon.com/config/latest/developerguide/gs-console.html), which helps you to assess, audit, and evaluate the configurations of your AWS resources.
 
