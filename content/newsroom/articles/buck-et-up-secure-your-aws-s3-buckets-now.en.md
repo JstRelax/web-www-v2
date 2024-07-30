@@ -1,6 +1,6 @@
 ---
 title: Buck-et up! Secure your AWS S3 Buckets now!
-date: 2024-06-30T18:12:00.000Z
+date: 2024-07-30T16:20:00.000Z
 tag: news
 intro: 1.5 million files stored unprotected on the public internet, does this
   still happen? Unfortunately, yes, it still happens. Despite our familiarity
@@ -21,8 +21,6 @@ An AWS S3 bucket is essentially a container in the cloud where you can store and
 Each S3 bucket can hold a virtually unlimited number of objects. You probably would not like everyone to be able to view, modify, copy or delete your data, so you create access policies and controls to secure it. Without access policies, an AWS S3 bucket is considered "publicly accessible". This means that its permissions allow any user on the internet to view and download its contents. 
 
 When an S3 bucket is visible to everyone on the public internet when it shouldn’t be, it’s called a misconfiguration. Such misconfigurations can turn a private repository of sensitive data into a goldmine for cybercriminals. So, what happens if you accidentally forget to secure your AWS S3 bucket? 
-
-
 
 ## Risks and consequences of misconfigured buckets
 
@@ -63,11 +61,12 @@ Activate logging and monitoring features like AWS CloudTrail and Amazon S3 serve
 * [Logging requests with server access logging](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ServerLogs.html)
 * [Logging Amazon S3 API calls using AWS CloudTrail](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cloudtrail-logging.html)
 
-### ✅ Encrypt your data at rest and in transit
+### \
+✅ Encrypt your data at rest and in transit
 
 Use server-side encryption (SSE) or client-side encryption to protect your data at rest. Ensure data in transit is encrypted using HTTPS to prevent interception.
 
-### ✅ Conduct regular security audits of your AWS environment 
+### ✅ Conduct regular security audits of your AWS environment
 
 Regular security audits can be used to identify and remediate potential vulnerabilities. To simplify compliance auditing and security analysis, you can enable [AWS Config](https://docs.aws.amazon.com/config/latest/developerguide/gs-console.html), which helps you to assess, audit, and evaluate the configurations of your AWS resources.
 
