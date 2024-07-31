@@ -1,6 +1,6 @@
 ---
 title: Buck-et up! Secure your AWS S3 Buckets now!
-date: 2024-07-31T14:43:00.000Z
+date: 2024-06-30T18:20:00.000Z
 tag: news
 intro: 1.5 million files stored unprotected on the public internet, does this
   still happen? Unfortunately, yes, it still happens. Despite our familiarity
