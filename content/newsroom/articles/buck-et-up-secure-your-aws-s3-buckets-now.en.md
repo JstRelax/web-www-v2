@@ -24,7 +24,7 @@ When an S3 bucket is visible to everyone on the public internet when it shouldn�
 
 ## Risks and consequences of misconfigured buckets
 
-If an S3 bucket is left publicly accessible, anyone can access the data inside. When cybercriminals gain access to confidential or sensitive information, it results in a data breach. This is one of the most severe and likely consequences of an exposed S3 bucket. Depending on the data stored, a data breach can lead to reputational damage, regulatory penalties, and intellectual property theft. In the worst cases, it can also result in identity theft, financial loss, and competitive disadvantages.
+If an S3 bucket is left publicly accessible, anyone can access the data inside. When cybercriminals gain access to confidential or sensitive information, it results in a data breach. This is one of the most severe and likely consequences of an exposed S3 bucket. Depending on the data stored, a data breach can lead to reputational damage, regulatory penalties, and intellectual property theft. In the worst cases, it can also result in identity theft, financial loss, and competitive disadvantages. Cybercriminals can also use the stolen data to threaten to release this data unless a ransom is paid. Getting blackmailed can be perceived as humiliating, and is harmful to the victim’s reputation and trust relationships.
 
 ### ☢️ Reputation damage
 
@@ -36,7 +36,7 @@ In addition to reputational damage, failing to comply with laws and regulations 
 
 ### ☢️ Intellectual Property theft
 
-For organisations, especially those in tech and creative industries, intellectual property is a valuable asset. Accidentally exposing source code, designs, or proprietary processes can enable competitors to steal or replicate innovative solutions, undermining your company’s competitive edge.
+For organisations, especially those in tech and creative industries, intellectual property is a valuable asset. Accidentally exposing source code, designs, or proprietary processes can enable competitors to steal or replicate innovative solutions, undermining your company’s competitive edge. 
 
 ### ☢️ Using property theft to advance the attack ever further
 
@@ -61,8 +61,7 @@ Activate logging and monitoring features like AWS CloudTrail and Amazon S3 serve
 * [Logging requests with server access logging](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ServerLogs.html)
 * [Logging Amazon S3 API calls using AWS CloudTrail](https://docs.aws.amazon.com/AmazonS3/latest/userguide/cloudtrail-logging.html)
 
-### \
-✅ Encrypt your data at rest and in transit
+### ✅ Encrypt your data at rest and in transit
 
 Use server-side encryption (SSE) or client-side encryption to protect your data at rest. Ensure data in transit is encrypted using HTTPS to prevent interception.
 
@@ -74,4 +73,4 @@ Regular security audits can be used to identify and remediate potential vulnerab
 
 Proactively detect the presence of sensitive data with [Amazon Macie](https://docs.aws.amazon.com/macie/latest/user/what-is-macie.html). Amazon Macie uses machine learning and pattern matching to provide visibility into data security risks, and enables automated protection against those risks. 
 
-By following these steps, you can significantly enhance the security of your S3 buckets and protect your data from unauthorised access and potential breaches. If you happen to forget to secure your S3 bucket, let’s hope & pray that one of DIVD’s finest finds the misconfiguration and reports it to your organisation as soon as it’s discovered!
+✨ By following these steps, you can significantly enhance the security of your S3 buckets and protect your data from unauthorised access and potential breaches. If you happen to forget to secure your S3 bucket, let’s hope & pray that one of DIVD’s finest finds the misconfiguration and reports it to your organisation as soon as it’s discovered!
