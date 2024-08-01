@@ -1,7 +1,7 @@
 ---
 title: DIVD's work is of great importance, here is why
 intro: |-
-  Working for DIVD, we aim to make the digital world safer by reporting vulnerabilities we find in digital systems to the people who can mitigate them.  
+  Working for DIVD, we aim to make the digital world safer by reporting vulnerabilities we find in digital systems to the people who can mitigate them.
 
   But what are exactly are (zero-day) vulnerabilities, and why is it so important to find them as soon as possible? Find these (and other) frequently used cyber security definitions on this page.
 leftblock:
@@ -10,11 +10,11 @@ leftblock:
 
     According to [NIST](https://csrc.nist.gov/glossary/term/vulnerability#:~:text=Definitions%3A,triggered%20by%20a%20threat%20source.) (National Institute of Standards and Technology), a vulnerability is a “w*eakness in an information system, system security procedures, internal controls, or implementation that could be exploited or triggered by a threat source.*”
 
-    Essentially, a security vulnerability is a weakness or flaw in a computer system, network, or software that can be exploited by cybercriminals to gain unauthorized access to systems and/or cause damage. Common examples of vulnerabilities are misconfigurations, unpatched software or firmware, the use of weak or default passwords, and the use of old protocols and standards. 
+    Essentially, a security vulnerability is a weakness or flaw in a computer system, network, or software that can be exploited by cybercriminals to gain unauthorized access to systems and/or cause damage. Common examples of vulnerabilities are misconfigurations, unpatched software or firmware, the use of weak or default passwords, and the use of old protocols and standards.
 
-    When cybercriminals discover a vulnerability on a system,  they will try to create a way to *exploit* it, to achieve actions on objectives. An *exploit* is basically a malicious piece of code or script that can be used to take advantage of a system's vulnerability.  
+    When cybercriminals discover a vulnerability on a system,  they will try to create a way to *exploit* it, to achieve actions on objectives. An *exploit* is basically a malicious piece of code or script that can be used to take advantage of a system's vulnerability.
 
-    When cybercriminals are able to exploit a vulnerability in a system to gain access to critical systems, they can potentially view, modify, delete and/or extract sensitive data. As soon as an intruder gets in, secrets are no longer secret. If an organisation doesn't find and mitigate vulnerabilities in time, the consequences can be severe, ranging from financial losses to irreparable damage to the organisation's reputation. 
+    When cybercriminals are able to exploit a vulnerability in a system to gain access to critical systems, they can potentially view, modify, delete and/or extract sensitive data. As soon as an intruder gets in, secrets are no longer secret. If an organisation doesn't find and mitigate vulnerabilities in time, the consequences can be severe, ranging from financial losses to irreparable damage to the organisation's reputation.
 
     Cybercriminals often prefer to create exploits for big, well-known issues because they can use those exploits to create powerful, cheap attacks that work for many years and on many systems.
   image: ""
@@ -25,11 +25,13 @@ rightblock:
   content: |-
     ## **Zero-day Vulnerability**
 
-    Ideally, a discovered vulnerability is directly reported to the vendor. The vendor rewards the finder (often via a bug bounty program) and agrees with the finder to keep the software vulnerability a secret. The vendor then creates a patch and (periodically) releases updates containing one or more security patches. Thus, the vendor is aware of the issue and provides a fix. 
+    A zero-day (0-day) vulnerability is a specific type of security flaw. It defines a vulnerability that is *unknown* to the software developers and the security community at the time it is discovered by hackers. Against popular belief, this does not necessarily make a zero-day vulnerability a 'critical'  or 'highly exploitable' vulnerability. It only means that there is no fix released for it yet. 
 
-    However, sometimes a “zero-day vulnerability” occurs. A zero-day (0-day) vulnerability is a specific type of security flaw that is unknown to the software developers and the security community at the time it is discovered by hackers. Because the vulnerability is not yet known, no one can properly protect against it. 
+    DIVD actively searches for vulnerable systems online. A discovered vulnerability is directly reported to the vendor. The vendor or partner agrees with DIVD to keep the software vulnerability a secret, so that the vulnerability can remain secret. This gives the vendor a little time to create and release a security update (a so-called 'patch' or 'hotfix') to fix the vulnerability. Thus, the vendor is aware of the issue and provides a fix.
 
-    Returning to the house analogy, imagine advertising on the internet that you’ve left your front door open while you’re away for the weekend. Because you are away, you can not protect your house and all your precious belongings. 
+    However, there are times when DIVD researchers uncover a vulnerability that has *never* been discovered before. For example, this could be a flaw in core components of operating systems (such as Windows, macOS, or Linux) or a vulnerability in a widely used network protocol that has previously gone unnoticed. 
+
+    Since this vulnerability is *unknown*, no one is adequately protected against it. The vendor needs to disclose information about the vulnerability to it's partners, but in doing so, they also unintentionally but unavoidably inform cybercriminals about the occurrence of a weakness in their software. This is when a race against the clock begins. Who works faster, the software vendor crafting and distributing a patch, or the cybercriminals crafting and deploying an exploit?
 
     🤓 *The term ‘zero-day’ reflects that the developers had zero days to develop a fix.*
 
@@ -78,10 +80,10 @@ opener: DIVD's work is of great importance, here is why
 main:
   title: More text here
 ---
-✨ First of all, DIVD scans for both known ánd zero-day vulnerabilities. When vulnerable URLs or systems are detected, we send the owners of the website or system a notification email. 
+✨ First of all, DIVD scans for both known ánd zero-day vulnerabilities. When vulnerable URLs or systems are detected, we send the owners of the website or system a notification email.
 
-✨ Furthermore, DIVD is a CVE Numbering Authority (CNA), which means that when we identify new (previously unknown) vulnerabilities we can request the assignment of unique identifiers (CVEs). 
+✨ Furthermore, DIVD is a CVE Numbering Authority (CNA), which means that when we identify new (previously unknown) vulnerabilities we can request the assignment of unique identifiers (CVEs).
 
-✨ Besides all this effort, DIVD complements the work of other CSIRTs by focusing on proactive vulnerability disclosure and awareness. This approach helps in preventing cyber attacks and contributes to a safer digital world. 
+✨ Besides all this effort, DIVD complements the work of other CSIRTs by focusing on proactive vulnerability disclosure and awareness. This approach helps in preventing cyber attacks and contributes to a safer digital world.
 
 ✨ In summary, DIVD plays a crucial role in identifying and mitigating cybersecurity threats, protecting both individuals and organizations from potential harm. By raising awareness about cybersecurity vulnerabilities and weaknesses, DIVD helps educate the public and businesses on how to protect themselves online.

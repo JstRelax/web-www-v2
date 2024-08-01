@@ -3,9 +3,12 @@ title: Why our work matters
 intro: DIVD is a non-profit organisation run by volunteers, and a network of likeminded organisations. We’d love for you to sign up as a volunteer.
 leftblock:
   content: .
+  Alt tag for image: ""
   learnmore: ""
 rightblock:
   content: .
+  Alt tag for image: ""
+  learnmore: ""
 contenttitle: .
 belowwoordenboek: .
 corevalues:
