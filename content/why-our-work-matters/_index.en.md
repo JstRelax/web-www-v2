@@ -19,7 +19,7 @@ leftblock:
     Cybercriminals often prefer to create exploits for big, well-known issues because they can use those exploits to create powerful, cheap attacks that work for many years and on many systems.
   image: ""
   Alt tag for image: ""
-  learnmore: /
+  learnmore: /dictionary
   alt: null
 rightblock:
   content: |-
@@ -39,6 +39,7 @@ rightblock:
   learnmore: ""
   alt: null
 contenttitle: "## DIVD’s efforts are invaluable to society for several reasons"
+opener: DIVD's work is of great importance, here is why
 belowwoordenboek: |-
   **Availability**\
   At DIVD, we adhere to the ‘Principle of Proportionality’ and the ‘Principle of Subsidiarity’, as described in our [Code of Conduct](https://www.divd.nl/what-we-do/code-of-conduct/). This means that our research should increase and not decrease the integrity and availability of any and all online systems. If several means are available to meet the need, we opt for the one which has the least impact on the availability of the systems and services.
@@ -74,7 +75,6 @@ belowwoordenboek: |-
 
   **Vulnerability versus exploit**\
   A vulnerability is an issue or weakness in a system or application, whereas an exploit is an active component used to carry out an attack. The purpose of an exploit is to ‘exploit’ a vulnerability. A vulnerability itself does not cause harm by itself but creates an opportunity for an attacker to exploit it.
-opener: DIVD's work is of great importance, here is why
 main:
   title: More text here
 ---
