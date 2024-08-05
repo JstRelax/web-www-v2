@@ -1312,7 +1312,7 @@ collections:
         i18n: true
       - label: "Intro"
         name: "intro"
-        widget: text
+        widget: "markdown"
         required: false
         i18n: true
       - label: "Left content block"
@@ -1409,6 +1409,7 @@ collections:
         name: "body"
         widget: "markdown"
         i18n: true
+
   ########################################################################
   # CONTENT BLOCKS
   ########################################################################
