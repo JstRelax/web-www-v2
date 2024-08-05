@@ -4,6 +4,7 @@ intro: |-
   DIVD aims to make the digital world safer by reporting vulnerabilities we find in digital systems to the people who can fix them. On this page, we explain why our work matters to society, partners, and other organisations. 
 
   *"What makes DIVD amazing is the fact that we are in between these attackers and defenders. We attempt to take away attackers' weapons as quickly as possible by making people aware of these weapons. That has a lot of impact!"*
+opener: What exactly are (zero-day) security vulnerabilities, and why is it so important to find and report them as soon as possible?
 leftblock:
   content: |-
     ## **Security Vulnerability**
@@ -74,7 +75,6 @@ belowwoordenboek: |-
 
   **Vulnerability versus exploit**\
   A vulnerability is an issue or weakness in a system or application, whereas an exploit is an active component used to carry out an attack. The purpose of an exploit is to ‘exploit’ a vulnerability. A vulnerability itself does not cause harm by itself but creates an opportunity for an attacker to exploit it.
-opener: DIVD's work is of great importance, here is why
 main:
   title: More text here
 ---
