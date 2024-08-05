@@ -4,6 +4,10 @@ intro: |-
   Working for DIVD, we aim to make the digital world safer by reporting vulnerabilities we find in digital systems to the people who can mitigate them.
 
   But what are exactly are (zero-day) vulnerabilities, and why is it so important to find them as soon as possible? Find these (and other) frequently used cyber security definitions on this page.
+opener: |-
+  But what are exactly are (zero-day) vulnerabilities, and why is it so important to find them as soon as possible?
+
+  Find these (and other) frequently used cyber security definitions on this page.
 leftblock:
   content: |-
     ## **Security Vulnerability**
@@ -39,7 +43,6 @@ rightblock:
   learnmore: ""
   alt: null
 contenttitle: "## DIVD’s efforts are invaluable to society for several reasons"
-opener: DIVD's work is of great importance, here is why
 belowwoordenboek: |-
   **Availability**\
   At DIVD, we adhere to the ‘Principle of Proportionality’ and the ‘Principle of Subsidiarity’, as described in our [Code of Conduct](https://www.divd.nl/what-we-do/code-of-conduct/). This means that our research should increase and not decrease the integrity and availability of any and all online systems. If several means are available to meet the need, we opt for the one which has the least impact on the availability of the systems and services.
