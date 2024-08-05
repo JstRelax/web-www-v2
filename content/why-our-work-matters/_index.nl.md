@@ -1,7 +1,6 @@
 ---
 title: Why our work matters
 intro: DIVD is a non-profit organisation run by volunteers, and a network of likeminded organisations. We’d love for you to sign up as a volunteer.
-opener: Why our work matters
 leftblock:
   content: .
   Alt tag for image: ""
@@ -22,5 +21,6 @@ corevalues:
   - description: It is crucial for volunteers to have a robust knowledge of cybersecurity principles and methods. If they are considering joining one of our technical teams, they need to possess the necessary technical expertise to effectively detect and scrutinize vulnerabilities in online systems. Keeping up-to-date with the latest technologies and threats through continuous learning is indispensable.
     title: Technical Proficiency
 corevaluestitle: Core values
+opener: Why our work matters
 ---
 ..

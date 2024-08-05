@@ -4,10 +4,6 @@ intro: |-
   Working for DIVD, we aim to make the digital world safer by reporting vulnerabilities we find in digital systems to the people who can mitigate them.
 
   But what are exactly are (zero-day) vulnerabilities, and why is it so important to find them as soon as possible? Find these (and other) frequently used cyber security definitions on this page.
-opener: |-
-  But what are exactly are (zero-day) vulnerabilities, and why is it so important to find them as soon as possible?
-
-  Find these (and other) frequently used cyber security definitions on this page.
 leftblock:
   content: |-
     ## **Security Vulnerability**
@@ -42,7 +38,7 @@ rightblock:
   Alt tag for image: ""
   learnmore: ""
   alt: null
-contenttitle: "## DIVD’s efforts are invaluable to society for several reasons"
+contenttitle: "## Why our work matters"
 belowwoordenboek: |-
   **Availability**\
   At DIVD, we adhere to the ‘Principle of Proportionality’ and the ‘Principle of Subsidiarity’, as described in our [Code of Conduct](https://www.divd.nl/what-we-do/code-of-conduct/). This means that our research should increase and not decrease the integrity and availability of any and all online systems. If several means are available to meet the need, we opt for the one which has the least impact on the availability of the systems and services.
@@ -78,13 +74,16 @@ belowwoordenboek: |-
 
   **Vulnerability versus exploit**\
   A vulnerability is an issue or weakness in a system or application, whereas an exploit is an active component used to carry out an attack. The purpose of an exploit is to ‘exploit’ a vulnerability. A vulnerability itself does not cause harm by itself but creates an opportunity for an attacker to exploit it.
+opener: DIVD's work is of great importance, here is why
 main:
   title: More text here
 ---
-✨ DIVD scans for both known ánd zero-day vulnerabilities. When vulnerable URLs or systems are detected, we send the owners of the website or system a notification email.
+✨  DIVD focuses on identifying and responsibly disclosing vulnerabilities in software and systems before they can be exploited by cybercriminals. 
 
-✨ DIVD is a CVE Numbering Authority (CNA), which means that when we identify new (previously unknown) vulnerabilities we can request the assignment of unique identifiers (CVEs).
+✨ DIVD scans for both regular security vulnerabilities *and* zero-day vulnerabilities. DIVD requests the assignment of new unique identifiers (CVEs) when new (previously unknown) vulnerabilities are identified.
 
-✨ DIVD complements the work of other CSIRTs by focusing on proactive vulnerability disclosure and awareness. This approach helps in preventing cyber attacks and contributes to a safer digital world.
+✨ DIVD is known for its transparency in reporting vulnerabilities and the steps taken to address them. This openness builds trust within the cybersecurity community and with the public.
 
-In summary, DIVD plays a crucial role in identifying and mitigating cybersecurity threats, protecting both individuals and organizations from potential harm. By raising awareness about cybersecurity vulnerabilities and weaknesses, DIVD helps educate the public and businesses on how to protect themselves online.
+✨ DIVD focused on proactive vulnerability disclosure and awareness, therefore  complementing the work of other CSIRTs. Unlike many cybersecurity organizations that operate for profit, DIVD is a non-profit entity.
+
+✨ DIVD actively engages with the cybersecurity community, including researchers, ethical hackers, and other stakeholders, to share knowledge and improve collective security efforts.
