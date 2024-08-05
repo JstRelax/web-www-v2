@@ -22,7 +22,7 @@ At DIVD, we work with sensitive data every day. Think about lists of IP addresse
 
 **(Ethical) Hacker / White Hat Hacker**
 
-DIVD members belong to the “white hat” hackers. A white hat hacker is someone who breaks into a computer system with positive intentions, without disrupting any services or processes. The motivation of a white hat hacker is to detect security vulnerabilities, without misusing or exploiting them. A white hat hacker is sometimes also referred to as an ethical hacker. Our members are skilled professionals that must always operate within legal boundaries. Please read our [Code of Conduct](https://www.divd.nl/what-we-do/code-of-conduct/) for more information. *The term ‘white hat’ comes from cowboy movies in which the hero always wore a white hat.*
+DIVD members belong to the “white hat” hackers. A white hat hacker is someone who breaks into a computer system with positive intentions, without disrupting any services or processes. The motivation of a white hat hacker is to detect security vulnerabilities, without misusing or exploiting them. A white hat hacker is sometimes also referred to as an ethical hacker. Our members are skilled professionals that must always operate within legal boundaries. Please read our [Code of Conduct](https://www.divd.nl/what-we-do/code-of-conduct/) for more information. 
 
 **Exploit**
 
