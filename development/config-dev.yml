@@ -218,10 +218,12 @@ collections:
         name: "button_text"
         widget: "string"
         i18n: true
+        required: false
       - label: "Button url"
         name: "button_url"
         widget: "string"
         i18n: true
+        required: false
       - label: "FAQ groups"
         name: "faqgroups"
         widget: list
@@ -1313,6 +1315,11 @@ collections:
         widget: "markdown"
         required: false
         i18n: true
+      - label: "Opener"
+        name: "opener"
+        widget: "markdown"
+        required: false
+        i18n: true
       - label: "Left content block"
         name: "leftblock"
         i18n: true
@@ -1453,6 +1460,7 @@ collections:
             search_fields: ["title", "case.caseid"]
             value_field: "/newsroom/articles/{{slug}}"
             display_fields: ["title", "case.caseid"]
+            required: false
             multiple: true
 
       # BLOCK:  Our mission #####################################################
