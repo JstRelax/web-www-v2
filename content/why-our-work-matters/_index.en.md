@@ -19,7 +19,7 @@ leftblock:
 
     When cybercriminals are able to exploit a vulnerability in a system to gain access to critical systems, they can potentially view, modify, delete and/or extract sensitive data. As soon as an intruder gets in, secrets are no longer secret. If an organisation doesn't find and mitigate vulnerabilities in time, the consequences can be severe, ranging from financial losses to irreparable damage to the organisation's reputation.
 
-    *Cybercriminals often prefer to create exploits for big, well-known issues because they can use those exploits to create powerful, cheap attacks that work for many years and on many systems.*
+    Cybercriminals often prefer to create exploits for big, well-known issues because they can use those exploits to create powerful, cheap attacks that work for many years and on many systems.
   image: ""
   Alt tag for image: ""
   learnmore: /dictionary/
@@ -55,15 +55,11 @@ casehighlight:
 
     ### Risks that were mitigated
 
-    What if the vulnerability hadn't been discovered and the credentials remained publicly available?**
+    What if the vulnerability hadn't been discovered and the credentials remained publicly available?** Cybercriminals could theoretically have been able to gain access to the SolarMan Super Admin account, potentially controlling nearly 1,000,000 installations. They could theoretically have had the ability to alter system settings, disrupt services, or disable installations, causing widespread operational issues. Sensitive information could potentially have been exposed, leading to data breaches. Compromised systems could theoretically have been used to deploy malware, resulting in further security incidents and potential damage to connected networks. And last but not least, the company’s reputation could have been severely damaged, resulting in a loss of trust from customers and partners.
 
-    **Cybercriminals could have theoretically been able to gain access to the SolarMan Super Admin account**, allowing them to potentially control nearly 1,000,000 installations. They could theoretically have altered system settings, disrupted services, or disabled installations, causing widespread operational issues.
+    <br>
 
-    **Sensitive information could have theoretically been exposed**, leading to data breaches.
-
-    **The compromised systems could have theoretically been used to deploy malware**, leading to further security incidents and potential damage to connected networks.
-
-    **The company’s reputation could theoretically have been severely damaged**, resulting in loss of trust from customers and partners.
+    <br>
 
     **The 1,000,000 installations refer to solar power plants (installations) managed through the SolarMan platform. These installations have a total power output of over 10GwP (gigawatts peak). Most of these systems are located in China and Australia, with a significant number of over 40,000 in the Netherlands.* *Reference: [csirt.divd.nl](https://csirt.divd.nl/cases/DIVD-2022-00009/ "csirt.divd.nl").*
 
