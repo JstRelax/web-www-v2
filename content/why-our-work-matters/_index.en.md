@@ -47,7 +47,9 @@ contenttitle: "## Why our work matters"
 casehighlight:
   title: "## Without DIVD ..."
   content: |-
-    A good example of what the world would look like without DIVD's efforts, is [the SolarMan case](https://csirt.divd.nl/cases/DIVD-2022-00009/). In 2022, a DIVD researcher found a GitHub repository containing the username and password for SolarMan’s Super Admin account. These credentials were visible to anyone who would visit the GitHub page, meaning that anyone in the world with internet access could could have gained unauthorized access to nearly 1,000,000 installations!*
+    A good example of what the world would look like without DIVD's efforts, is [the SolarMan case](https://csirt.divd.nl/cases/DIVD-2022-00009/). In 2022, a DIVD researcher found a GitHub repository containing the username and password for SolarMan’s Super Admin account. These credentials were visible to anyone who would visit the GitHub page, meaning that anyone in the world with internet access could could have gained unauthorized access to nearly 1,000,000 installations!
+
+    > *The 1,000,000 installations refer to solar power plants (installations) managed through the SolarMan platform. These installations have a total power output of over 10GwP (gigawatts peak). Most of these systems are located in China and Australia, with a significant number of over 40,000 in the Netherlands.* *Reference: [csirt.divd.nl](https://csirt.divd.nl/cases/DIVD-2022-00009/ "csirt.divd.nl").*
 
     ### What did DIVD do?
 
@@ -55,15 +57,13 @@ casehighlight:
 
     ### Risks that were mitigated
 
-    What if the vulnerability hadn't been discovered and the credentials remained publicly available?** Cybercriminals could theoretically have been able to gain access to the SolarMan Super Admin account, potentially controlling nearly 1,000,000 installations. They could theoretically have had the ability to alter system settings, disrupt services, or disable installations, causing widespread operational issues. Sensitive information could potentially have been exposed, leading to data breaches. Compromised systems could theoretically have been used to deploy malware, resulting in further security incidents and potential damage to connected networks. And last but not least, the company’s reputation could have been severely damaged, resulting in a loss of trust from customers and partners.
+    What if the vulnerability hadn't been discovered and the credentials remained publicly available?* Cybercriminals could theoretically have been able to gain access to the SolarMan Super Admin account, potentially controlling nearly 1,000,000 installations. They could theoretically have had the ability to alter system settings, disrupt services, or disable installations, causing widespread operational issues. Sensitive information could potentially have been exposed, leading to data breaches. Compromised systems could theoretically have been used to deploy malware, resulting in further security incidents and potential damage to connected networks. And last but not least, the company’s reputation could have been severely damaged, resulting in a loss of trust from customers and partners.
 
     <br>
 
     </br>
 
-    **The 1,000,000 installations refer to solar power plants (installations) managed through the SolarMan platform. These installations have a total power output of over 10GwP (gigawatts peak). Most of these systems are located in China and Australia, with a significant number of over 40,000 in the Netherlands.* *Reference: [csirt.divd.nl](https://csirt.divd.nl/cases/DIVD-2022-00009/ "csirt.divd.nl").*
-
-    ***Note that it is very complex to summarize any DIVD case, or make accurate and precise assumptions about which risks were specifically mitigated. If you have any questions, please read about our case on the CSIRT page [contact DIVD](https://www.divd.nl/contact/).*
+    **Note that it is very complex to summarize any DIVD case, or make accurate and precise assumptions about which risks were specifically mitigated. If you have any questions, please read about our case on the CSIRT page [contact DIVD](https://www.divd.nl/contact/).*
 main:
   title: More text here
 ---
