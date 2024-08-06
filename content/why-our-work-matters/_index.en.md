@@ -59,9 +59,7 @@ casehighlight:
 
     What if the vulnerability hadn't been discovered and the credentials remained publicly available?* 
 
-    Cybercriminals could theoretically have been able to gain access to the SolarMan Super Admin account, potentially controlling nearly 1,000,000 installations. 
-
-    They could theoretically have had the ability to alter system settings, disrupt services, or disable installations, causing widespread operational issues. 
+    Cybercriminals could theoretically have been able to gain access to the SolarMan Super Admin account, potentially controlling nearly 1,000,000 installations. They could theoretically have had the ability to alter system settings, disrupt services, or disable installations, causing widespread operational issues. 
 
     Sensitive information could potentially have been exposed, leading to data breaches. 
 
@@ -69,7 +67,7 @@ casehighlight:
 
     And last but not least, the company’s reputation could have been severely damaged, resulting in a loss of trust from customers and partners.
 
-    > **Note that it is very complex to summarize any DIVD case, or make accurate and precise assumptions about which risks were specifically mitigated. If you have any questions, please read about our case on the CSIRT page [contact DIVD](https://www.divd.nl/contact/).*
+    **Note that it is very complex to summarize any DIVD case, or make accurate and precise assumptions about which risks were specifically mitigated. If you have any questions, please read about our case on the CSIRT page [contact DIVD](https://www.divd.nl/contact/).*
 main:
   title: More text here
 ---
