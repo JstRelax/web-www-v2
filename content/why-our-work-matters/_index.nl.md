@@ -1,17 +1,13 @@
 ---
 title: Why our work matters
 intro: DIVD is a non-profit organisation run by volunteers, and a network of likeminded organisations. We’d love for you to sign up as a volunteer.
-opener: Why our work matters
+opener: Why our work mattecrs
 leftblock:
-  content: .
-  Alt tag for image: ""
+  content: c
   learnmore: ""
 rightblock:
-  content: .
-  Alt tag for image: ""
-  learnmore: ""
-contenttitle: .
-belowwoordenboek: .
+  content: c
+contenttitle: c
 corevalues:
   - description: Volunteers must demonstrate a strong commitment to ethical conduct in their work. They should prioritise the well-being and safety of internet users and respect privacy and legal boundaries while conducting vulnerability research.
     title: Ethical Integrity
