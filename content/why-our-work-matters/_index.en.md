@@ -59,12 +59,14 @@ casehighlight:
 
     ### Risks that were mitigated
 
-    What if the vulnerability hadn't been discovered and the credentials remained publicly available?
+    What if the vulnerability hadn't been discovered and the credentials remained publicly available?*
 
-    - **Cybercriminals could have gained access to the SolarMan Super Admin account**, allowing them to control nearly 1,000,000 installations. They could've altered system settings, disrupted services, or disabled installations, causing widespread operational issues.
-    - **Sensitive information could have been exposed**, leading to data breaches.
-    - **The compromised systems could have been used to deploy malware**, leading to further security incidents and potential damage to connected networks.
-    - **The company’s reputation could have been severely damaged**, resulting in loss of trust from customers and partners.
+    - **Cybercriminals could have theoretically been able to gain access to the SolarMan Super Admin account**, allowing them to potentially control nearly 1,000,000 installations. They could theoretically have altered system settings, disrupted services, or disabled installations, causing widespread operational issues.
+    - **Sensitive information could have theoretically been exposed**, leading to data breaches.
+    - **The compromised systems could have theoretically been used to deploy malware**, leading to further security incidents and potential damage to connected networks.
+    - **The company’s reputation could theoretically have been severely damaged**, resulting in loss of trust from customers and partners.
+
+    **Note that it is very complex to summarize any DIVD case, or make accurate and precise assumptions about which risks were specifically mitigated. If you have any questions, please read about our case on the CSIRT page [contact DIVD](https://www.divd.nl/contact/).*
 main:
   title: More text here
 ---
