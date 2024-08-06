@@ -44,6 +44,27 @@ rightblock:
   learnmore: ""
   alt: null
 contenttitle: "## Why our work matters"
+casehighlight:
+  title: "## Without DIVD ..."
+  content: |-
+    A good example of what the world would look like without DIVD's relentless efforts, is [the SolarMan case](https://csirt.divd.nl/cases/DIVD-2022-00009/). In 2022, a DIVD researcher found a GitHub repository containing the username and password for SolarMan’s Super Admin account. These credentials were visible to anyone who would visit the GitHub page, meaning that anyone in the world with internet access could could have gained unauthorized access to nearly 1,000,000 installations!
+
+    > The **1,000,000 installations** refer to **solar power plants** (installations) managed through the SolarMan platform. These installations have a total power output of over **10GwP** (gigawatts peak). Most of these systems are located in China and Australia, with a significant number of over **40,000** in the **Netherlands**.
+
+    Reference: [csirt.divd.nl](https://csirt.divd.nl/cases/DIVD-2022-00009/ "csirt.divd.nl")
+
+    #### What did DIVD do?
+
+    DIVD contacted the company responsible for the repository. Eventually, the exposed password was reset and the repository was deleted.
+
+    #### Risks that were mitigated
+
+    What if the vulnerability hadn't been discovered and the credentials remained publicly available?
+
+    - **Cybercriminals could have gained access to the SolarMan Super Admin account**, allowing them to control nearly 1,000,000 installations. They could've altered system settings, disrupted services, or disabled installations, causing widespread operational issues.
+    - **Sensitive information could have been exposed**, leading to data breaches.
+    - **The compromised systems could have been used to deploy malware**, leading to further security incidents and potential damage to connected networks.
+    - **The company’s reputation could have been severely damaged**, resulting in loss of trust from customers and partners.
 main:
   title: More text here
 ---
