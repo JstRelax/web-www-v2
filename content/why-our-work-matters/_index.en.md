@@ -53,11 +53,11 @@ casehighlight:
 
     Reference: [csirt.divd.nl](https://csirt.divd.nl/cases/DIVD-2022-00009/ "csirt.divd.nl")
 
-    #### What did DIVD do?
+    ### What did DIVD do?
 
     DIVD contacted the company responsible for the repository. Eventually, the exposed password was reset and the repository was deleted.
 
-    #### Risks that were mitigated
+    ### Risks that were mitigated
 
     What if the vulnerability hadn't been discovered and the credentials remained publicly available?
 
