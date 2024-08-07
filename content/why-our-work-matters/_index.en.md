@@ -51,11 +51,7 @@ casehighlight:
 
     > *The 1,000,000 installations refer to solar power plants (installations) managed through the SolarMan platform. These installations have a total power output of over 10GwP (gigawatts peak). Most of these systems are located in China and Australia, with a significant number of over 40,000 in the Netherlands.* *Reference: [csirt.divd.nl](https://csirt.divd.nl/cases/DIVD-2022-00009/ "csirt.divd.nl").*
 
-    DIVD contacted the company responsible for the repository. Eventually, the exposed password was reset and the repository was deleted.
-
-    ## Risks that were mitigated
-
-    What if the vulnerability hadn't been discovered and the credentials remained publicly available?* 
+    DIVD contacted the company responsible for the repository. Eventually, the exposed password was reset and the repository was deleted. But what if the vulnerability hadn't been discovered and the credentials remained publicly available?* 
 
     **Cybercriminals could theoretically have been able to gain access to the SolarMan Super Admin account**, 
     potentially controlling nearly 1,000,000 installations. They could theoretically have had the ability to alter system settings, disrupt services, or disable installations, causing widespread operational issues.
