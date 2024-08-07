@@ -51,8 +51,6 @@ casehighlight:
 
     > *The 1,000,000 installations refer to solar power plants (installations) managed through the SolarMan platform. These installations have a total power output of over 10GwP (gigawatts peak). Most of these systems are located in China and Australia, with a significant number of over 40,000 in the Netherlands.* *Reference: [csirt.divd.nl](https://csirt.divd.nl/cases/DIVD-2022-00009/ "csirt.divd.nl").*
 
-    ## What did DIVD do?
-
     DIVD contacted the company responsible for the repository. Eventually, the exposed password was reset and the repository was deleted.
 
     ## Risks that were mitigated
