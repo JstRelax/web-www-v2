@@ -59,13 +59,21 @@ casehighlight:
 
     What if the vulnerability hadn't been discovered and the credentials remained publicly available?* 
 
+    {{< callout type="warning" >}}
     Cybercriminals could theoretically have been able to gain access to the SolarMan Super Admin account, potentially controlling nearly 1,000,000 installations. They could theoretically have had the ability to alter system settings, disrupt services, or disable installations, causing widespread operational issues. 
+    {{< /callout >}}
 
+    {{< callout type="warning" >}}
     Sensitive information could potentially have been exposed, leading to data breaches. 
+    {{< /callout >}}
 
+    {{< callout type="warning" >}}
     Compromised systems could theoretically have been used to deploy malware, resulting in further security incidents and potential damage to connected networks. 
+    {{< /callout >}}
 
+    {{< callout type="warning" >}}
     And last but not least, the company’s reputation could have been severely damaged, resulting in a loss of trust from customers and partners.
+    {{< /callout >}}
 
     **Note that it is very complex to summarize any DIVD case, or make accurate and precise assumptions about which risks were specifically mitigated. If you have any questions, please read about our case on the CSIRT page [contact DIVD](https://www.divd.nl/contact/).*
 main:
