@@ -218,10 +218,12 @@ collections:
         name: "button_text"
         widget: "string"
         i18n: true
+        required: false
       - label: "Button url"
         name: "button_url"
         widget: "string"
         i18n: true
+        required: false
       - label: "FAQ groups"
         name: "faqgroups"
         widget: list
@@ -1387,18 +1389,15 @@ collections:
       - label: "Case highlight"
         name: "casehighlight"
         i18n: true
-        required: false
         widget: "object"
         fields:
           - label: "Title"
             name: "title"
             widget: "markdown"
-            required: false
             i18n: true
           - label: "Content"
             name: "content"
             widget: "markdown"
-            required: false
             i18n: true
 
 
@@ -1475,6 +1474,7 @@ collections:
             search_fields: ["title", "case.caseid"]
             value_field: "/newsroom/articles/{{slug}}"
             display_fields: ["title", "case.caseid"]
+            required: false
             multiple: true
 
       # BLOCK:  Our mission #####################################################
