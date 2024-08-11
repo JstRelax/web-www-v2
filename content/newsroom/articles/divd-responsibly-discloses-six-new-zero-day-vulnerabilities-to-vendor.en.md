@@ -48,6 +48,8 @@ Finally, on Wednesday 7 August, another report was published by Bitdefender list
 - [FTM](https://www.ftm.nl/artikelen/hacker-kan-stekker-uit-zonnepanelen-trekken-en-stroomnet-platleggen) article.
 - EenVandaag: demonstration of the vulnerability in action, episode is released on  the 13th of August at 18:15 CET.
 
+{{< callout type="warning" >}}
 If you would like to contribute to DIVD’s mission, your donations are more than welcome. You can also [sign up](https://www.divd.nl/contribute/volunteers/) as a volunteer and offer your time and skills here.
 
 Make sure to [follow](https://www.linkedin.com/company/divd-nl/?) us on LinkedIn and [X](https://x.com/DIVDnl) (formerly known as Twitter) and take notice of every important update.
+{{< /callout >}}
