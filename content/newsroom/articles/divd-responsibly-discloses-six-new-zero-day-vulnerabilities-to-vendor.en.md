@@ -13,7 +13,7 @@ faq: null
 **The Hague, Netherlands – Aug 11, 2024**
 By Marieke Smits and Serena de Pater
 
-## About the case
+### About the case
 
 DIVD researchers have discovered and, in collaboration with the vendor, disclosed **six new zero-day vulnerabilities** in [Enphase IQ Gateway devices](https://enphase.com/cybersecurity/advisories/ensa-2024-6?_gl=1*ut63dx*_up*MQ..*_ga*MTU3MzcwMTgxMC4xNzIzMzY5ODY2*_ga_0L7F5QSJ7V*MTcyMzM2OTg2NS4xLjAuMTcyMzM2OTg2NS4wLjAuMA..). This investigation was performed by [Wietse Boonstra](https://www.divd.nl/who-we-are/team/people/wietse-boonstra/) and [Hidde Smit](https://www.divd.nl/who-we-are/team/people/hidde-smit/), both researchers of DIVD, in case [DIVD-2024-00011](https://csirt.divd.nl/DIVD-2024-00011). 
 
@@ -21,11 +21,11 @@ Additionally, DIVD has independently requested the assignment of CVEs (Common Vu
 
 The six vulnerabilities were reported to Enphase by the DIVD team, and Enphase has addressed them in the upcoming release. DIVD is now working with Enphase to identify vulnerable and exposed Envoy IQ Gateways globally, aiming to assist with the patching process. 
 
-## Impact 
+### Impact 
 
 With the six vulnerabilities combined, attackers could theoretically take control over the Enphase IQ Gateway device. A device is only vulnerable if you have your Enphase equipment exposed to an untrusted network (internet or home guest network). The manufacturer, Enphase, says it has about four million systems deployed in more than 150 countries. 
 
-## Potential new trends influencing the energy sector
+### Potential new trends influencing the energy sector
 
 The energy sector is crucial to our daily lives, yet we're seeing a concerning rise in vulnerabilities, especially with the rapid energy transition. As new technologies like smart grids and IoT devices are integrated, the sector's exposure to risks increases. This surge in vulnerabilities likely stems from the fast-paced innovation that often outstrips security measures. Given the sector's importance, it's vital to prioritize cybersecurity to safeguard against these growing threats.
 
@@ -39,7 +39,7 @@ Finally, on Wednesday 7 August, another report was published by Bitdefender list
 
 > *“[Hypponen's law](https://blog.f-secure.com/nl/de-wet-van-hypponen-als-het-smart-het-kwetsbaar/) also seems to apply to the energy transition: If it is "smart" it is vulnerable. So far, every solar power or charging station system that was investigated by DIVD contains some kind of serious vulnerability. DIVD is actively seeking publicity with these cases because in addition to a technical problem, a public concern is now emerging.“* *-[ Frank Breedijk](https://www.divd.nl/who-we-are/team/people/frank-breedijk/) (CSIRT Manager).* 
 
-## **Additional sources & links:**
+### **Additional sources & links:**
 
 - [DIVD-2024-00011](https://csirt.divd.nl/DIVD-2024-00011); casefile DIVD.
 - [Enphase](https://enphase.com/cybersecurity/advisories/ensa-2024-6?_gl=1*ut63dx*_up*MQ..*_ga*MTU3MzcwMTgxMC4xNzIzMzY5ODY2*_ga_0L7F5QSJ7V*MTcyMzM2OTg2NS4xLjAuMTcyMzM2OTg2NS4wLjAuMA); Informative (security advisory) from the vendor.
