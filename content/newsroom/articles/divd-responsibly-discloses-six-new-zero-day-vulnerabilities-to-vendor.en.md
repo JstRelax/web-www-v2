@@ -35,7 +35,7 @@ In 2022, DIVD researcher [Jelle Ursem](https://www.divd.nl/who-we-are/team/peopl
 
 On Monday, August 12, 2024, the Dutch Enterprise Agency (Rijksdienst voor Ondernemend Nederland) published a [report](https://topsectorenergie.nl/kennisbank/maatregelen-cyberveiligheid-zonpv/) about an investigation into vulnerabilities in Dutch Solar Power systems, performed by [Secura](https://www.secura.com/) on behalf of the Netherlands Enterprise Agency, at the request of and in collaboration with the Top Sector Energy.
 
-Finally, on Wednesday, August 7th, another report was published by Bitdefender listing vulnerabilities in solar farms in the U.S.
+Lastly, on Wednesday, August 7th, another report was published by Bitdefender listing vulnerabilities in solar farms in the U.S.
 
 > *“[Hypponen's law](https://blog.f-secure.com/nl/de-wet-van-hypponen-als-het-smart-het-kwetsbaar/) also seems to apply to the energy transition: If it is "smart" it is vulnerable. So far, every solar power or charging station system that was investigated by DIVD contains some kind of serious vulnerability. DIVD is actively seeking publicity with these cases because in addition to a technical problem, a public concern is now emerging.“* *-[ Frank Breedijk](https://www.divd.nl/who-we-are/team/people/frank-breedijk/) (CSIRT Manager).* 
 
