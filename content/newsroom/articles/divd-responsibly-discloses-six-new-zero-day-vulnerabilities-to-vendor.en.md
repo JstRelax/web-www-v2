@@ -11,7 +11,7 @@ faq_enabled: false
 faq: null
 ---
 **The Hague, Netherlands – Aug 11, 2024**
-by [Marieke Smits](https://www.divd.nl/who-we-are/team/people/marieke-smits/) and [Serena de Pater](https://www.divd.nl/who-we-are/team/people/serena-de-pater/)
+by [Serena de Pater](https://www.divd.nl/who-we-are/team/people/serena-de-pater/) and [Marieke Smits](https://www.divd.nl/who-we-are/team/people/marieke-smits/)
 
 ## About the case
 
@@ -48,8 +48,6 @@ Lastly, on Wednesday, August 7th, another report was published by Bitdefender li
 - [Follow the Money article.](https://www.ftm.nl/artikelen/hacker-kan-stekker-uit-zonnepanelen-trekken-en-stroomnet-platleggen)
 - EenVandaag: Demonstration of the vulnerabiliies in action, episode is released on  the 13th of August at 18:15 CET.
 
-<br>
+###### If you would like to contribute to DIVD’s mission, your donations are more than welcome. You can also [sign up](https://www.divd.nl/contribute/volunteers/) as a volunteer and offer your time and skills here.
 
-If you would like to contribute to DIVD’s mission, your donations are more than welcome. You can also [sign up](https://www.divd.nl/contribute/volunteers/) as a volunteer and offer your time and skills here.
-
-Make sure to [follow](https://www.linkedin.com/company/divd-nl/?) us on LinkedIn and [X](https://x.com/DIVDnl) (formerly known as Twitter) and take notice of every important update.
+###### Make sure to [follow](https://www.linkedin.com/company/divd-nl/?) us on LinkedIn and [X](https://x.com/DIVDnl) (formerly known as Twitter) and take notice of every important update.
