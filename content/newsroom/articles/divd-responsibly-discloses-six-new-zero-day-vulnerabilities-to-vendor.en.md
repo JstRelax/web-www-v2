@@ -11,7 +11,7 @@ faq_enabled: false
 faq: null
 ---
 **The Hague, Netherlands – Aug 11, 2024**
-By [Marieke Smits](https://www.divd.nl/who-we-are/team/people/marieke-smits/) and [Serena de Pater](https://www.divd.nl/who-we-are/team/people/serena-de-pater/)
+by [Marieke Smits](https://www.divd.nl/who-we-are/team/people/marieke-smits/) and [Serena de Pater](https://www.divd.nl/who-we-are/team/people/serena-de-pater/)
 
 ## About the case
 
