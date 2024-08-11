@@ -3,7 +3,7 @@ title: DIVD responsibly discloses six new zero-day vulnerabilities to vendor
 date: 2024-08-11T16:03:00+02:00
 author: []
 tag: news
-intro: DIVD researchers have discovered and, in collaboration with the vendor, disclosed six new zero-day vulnerabilities in Enphase IQ Gateway devices. This investigation was performed by Wietse Boonstra and Hidde Smit, both researchers of DIVD, in case DIVD-2024-00011.  The six vulnerabilities were reported to Enphase by the DIVD team, and Enphase has addressed them in the upcoming release. DIVD is now working with Enphase to identify vulnerable and exposed Envoy IQ Gateways globally, aiming to assist with the patching process.
+intro: DIVD researchers have discovered and, in collaboration with the vendor, disclosed six new zero-day vulnerabilities in Enphase IQ Gateway devices.
 image: /images/image (1).png
 Alt tag for image: ""
 case: null
