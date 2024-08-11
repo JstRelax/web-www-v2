@@ -39,6 +39,10 @@ Lastly, on Wednesday, August 7th, another report was published by Bitdefender li
 
 > *“[Hypponen's law](https://blog.f-secure.com/nl/de-wet-van-hypponen-als-het-smart-het-kwetsbaar/) also seems to apply to the energy transition: If it is "smart" it is vulnerable. So far, every solar power or charging station system that was investigated by DIVD contains some kind of serious vulnerability. DIVD is actively seeking publicity with these cases because in addition to a technical problem, a public concern is now emerging.“* *-[ Frank Breedijk](https://www.divd.nl/who-we-are/team/people/frank-breedijk/) (CSIRT Manager).* 
 
+If you would like to contribute to DIVD’s mission, your donations are more than welcome. You can also [sign up](https://www.divd.nl/contribute/volunteers/) as a volunteer and offer your time and skills here.
+
+Make sure to [follow](https://www.linkedin.com/company/divd-nl/?) us on LinkedIn and [X](https://x.com/DIVDnl) (formerly known as Twitter) and take notice of every important update.
+
 ## **Additional sources & links:**
 
 - [Casefile DIVD-2024-00011.](https://csirt.divd.nl/DIVD-2024-00011)
@@ -47,7 +51,3 @@ Lastly, on Wednesday, August 7th, another report was published by Bitdefender li
 - [Bitdefender report.](https://www.bitdefender.com/blog/labs/60-hurts-per-second-how-we-got-access-to-enough-solar-power-to-run-the-united-states/)
 - [Follow the Money article.](https://www.ftm.nl/artikelen/hacker-kan-stekker-uit-zonnepanelen-trekken-en-stroomnet-platleggen)
 - EenVandaag: Demonstration of the vulnerabiliies in action, episode is released on  the 13th of August at 18:15 CET.
-
-###### If you would like to contribute to DIVD’s mission, your donations are more than welcome. You can also [sign up](https://www.divd.nl/contribute/volunteers/) as a volunteer and offer your time and skills here.
-
-###### Make sure to [follow](https://www.linkedin.com/company/divd-nl/?) us on LinkedIn and [X](https://x.com/DIVDnl) (formerly known as Twitter) and take notice of every important update.
