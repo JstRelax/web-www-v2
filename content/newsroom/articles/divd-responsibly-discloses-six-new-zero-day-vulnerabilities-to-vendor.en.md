@@ -23,7 +23,7 @@ The six vulnerabilities were reported to Enphase by the DIVD team, and Enphase h
 
 ## Impact 
 
-Combining the first three of the six vulnerabilities enables attackers to take full control of the Enphase IQ Gateway and the connected devices. A device is only vulnerable if your Enphase equipment is exposed to an untrusted network, such as the public internet or a home guest network. The manufacturer, Enphase, states that it has about four million systems deployed in more than 150 countries.
+Combining the first three of the six vulnerabilities enables unauthenticated attackers to take full control of the Enphase IQ Gateway and the connected devices. A device is only vulnerable if your Enphase equipment is exposed to an untrusted network, such as the public internet or a home guest network. The manufacturer, Enphase, states that it has about four million systems deployed in more than 150 countries.
 
 ## Potential new trends influencing the energy sector
 
@@ -45,9 +45,9 @@ Make sure to [follow](https://www.linkedin.com/company/divd-nl/?) us on LinkedIn
 
 ## **Additional sources & links:**
 
-- [Casefile DIVD-2024-00011.](https://csirt.divd.nl/DIVD-2024-00011)
-- [Security advisory from Enphase.](https://enphase.com/cybersecurity/advisories/ensa-2024-6?_gl=1*ut63dx*_up*MQ..*_ga*MTU3MzcwMTgxMC4xNzIzMzY5ODY2*_ga_0L7F5QSJ7V*MTcyMzM2OTg2NS4xLjAuMTcyMzM2OTg2NS4wLjAuMA..)
-- [RVO rapport](https://topsectorenergie.nl/kennisbank/maatregelen-cyberveiligheid-zonpv/).
-- [Bitdefender report.](https://www.bitdefender.com/blog/labs/60-hurts-per-second-how-we-got-access-to-enough-solar-power-to-run-the-united-states/)
-- [Follow the Money article.](https://www.ftm.nl/artikelen/hacker-kan-stekker-uit-zonnepanelen-trekken-en-stroomnet-platleggen)
-- [EenVandaag](https://eenvandaag.avrotros.nl/): Demonstration of the vulnerabiliies in action, episode is released on  the 13th of August at 18:15 CET.
+- [Casefile DIVD-2024-00011](https://csirt.divd.nl/DIVD-2024-00011)
+- [Security advisory from Enphase](https://enphase.com/cybersecurity/advisories/ensa-2024-6?_gl=1*ut63dx*_up*MQ..*_ga*MTU3MzcwMTgxMC4xNzIzMzY5ODY2*_ga_0L7F5QSJ7V*MTcyMzM2OTg2NS4xLjAuMTcyMzM2OTg2NS4wLjAuMA..)
+- [RVO rapport](https://topsectorenergie.nl/kennisbank/maatregelen-cyberveiligheid-zonpv/) (NL)
+- [Bitdefender report](https://www.bitdefender.com/blog/labs/60-hurts-per-second-how-we-got-access-to-enough-solar-power-to-run-the-united-states/) (ENG)
+- [Follow the Money article](https://www.ftm.nl/artikelen/hacker-kan-stekker-uit-zonnepanelen-trekken-en-stroomnet-platleggen) 
+- [EenVandaag](https://eenvandaag.avrotros.nl/): Demonstration of the vulnerabilities in action, episode is released on  the 13th of August at 18:15 CET.
