@@ -50,4 +50,4 @@ Make sure to [follow](https://www.linkedin.com/company/divd-nl/?) us on LinkedIn
 - [RVO rapport](https://topsectorenergie.nl/kennisbank/maatregelen-cyberveiligheid-zonpv/).
 - [Bitdefender report.](https://www.bitdefender.com/blog/labs/60-hurts-per-second-how-we-got-access-to-enough-solar-power-to-run-the-united-states/)
 - [Follow the Money article.](https://www.ftm.nl/artikelen/hacker-kan-stekker-uit-zonnepanelen-trekken-en-stroomnet-platleggen)
-- EenVandaag: Demonstration of the vulnerabiliies in action, episode is released on  the 13th of August at 18:15 CET.
+- [EenVandaag](https://eenvandaag.avrotros.nl/): Demonstration of the vulnerabiliies in action, episode is released on  the 13th of August at 18:15 CET.
