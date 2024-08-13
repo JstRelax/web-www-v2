@@ -218,10 +218,12 @@ collections:
         name: "button_text"
         widget: "string"
         i18n: true
+        required: false
       - label: "Button url"
         name: "button_url"
         widget: "string"
         i18n: true
+        required: false
       - label: "FAQ groups"
         name: "faqgroups"
         widget: list
@@ -1444,6 +1446,7 @@ collections:
       - name: "Title"
         widget: "string"
         default: "Blocks"
+        required: false
       # BLOCK:  Ethics #####################################################
       - name: "ethics"
         label: "Ethics"
@@ -1475,6 +1478,7 @@ collections:
             search_fields: ["title", "case.caseid"]
             value_field: "/newsroom/articles/{{slug}}"
             display_fields: ["title", "case.caseid"]
+            required: false
             multiple: true
 
       # BLOCK:  Our mission #####################################################
@@ -1571,18 +1575,22 @@ collections:
         label: "Contact"
         i18n: true
         widget: object
+        required: false
         fields:
           - label: "Title"
             name: "title"
             widget: "string"
+            required: false
             i18n: true
           - label: "Description"
             name: "intro"
             widget: markdown
+            required: false
             i18n: true
           - label: "To E-mail"
             name: "email"
             widget: text
+            required: false
 
       # BLOCK: Footer #####################################################
       - name: "footer"
