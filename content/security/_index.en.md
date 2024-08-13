@@ -25,17 +25,43 @@ Provide sufficient information to reproduce the problem, so we will be able to r
 
 ### **Don’ts**
 
-- Reveal the vulnerability or problem to others until it is resolved.
-- Build your own backdoor in an information system to then use it to demonstrate the vulnerability, because doing so can cause additional damage and create unnecessary security risks.
-- Utilise a vulnerability further than necessary to establish its existence.
-- Copy, modify or delete data on the system. An alternative for doing so is making a directory listing of the system.
-- Make changes to the system.
-- Repeatedly gain access to the system or share access with others.
-- Use brute force attacks, attacks on physical security, social engineering, distributed denial of service, spam, or applications of third parties to gain access to the system.
-- Access, or attempt to access, any data or information that does not belong to you.
-- Destroy or corrupt, or attempt to destroy or corrupt, any data or information that does not belong to you
+{{< callout type="error" >}}
+Reveal the vulnerability or problem to others until it is resolved.
+{{< /callout >}}
 
-**What we promise:**
+{{< callout type="error" >}}
+Build your own backdoor in an information system to then use it to demonstrate the vulnerability, because doing so can cause additional damage and create unnecessary security risks.
+{{< /callout >}}
+
+{{< callout type="error" >}}
+Utilise a vulnerability further than necessary to establish its existence.
+{{< /callout >}}
+
+{{< callout type="error" >}}
+Copy, modify, or delete data on the system. An alternative for doing so is making a directory listing of the system.
+{{< /callout >}}
+
+{{< callout type="error" >}}
+Make changes to the system.
+{{< /callout >}}
+
+{{< callout type="error" >}}
+Repeatedly gain access to the system or share access with others.
+{{< /callout >}}
+
+{{< callout type="error" >}}
+Use brute force attacks, attacks on physical security, social engineering, distributed denial of service, spam, or applications of third parties to gain access to the system.
+{{< /callout >}}
+
+{{< callout type="error" >}}
+Access, or attempt to access, any data or information that does not belong to you.
+{{< /callout >}}
+
+{{< callout type="error" >}}
+Destroy or corrupt, or attempt to destroy or corrupt, any data or information that does not belong to you
+{{< /callout >}}
+
+### **What we promise**
 
 - We will respond to your report within three business days with our evaluation of the report and an expected resolution date.
 - If you have followed the instructions above, we will not take any legal action against you concerning the report.
@@ -46,9 +72,7 @@ Provide sufficient information to reproduce the problem, so we will be able to r
 - We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication of the problem after it is resolved.
 - This Responsible Disclosure policy is based on an example written by Floor Terra and the Responsible Disclosure Guideline of the NCSC.
 
-**Scope**
-
-In Scope systems
+### **In Scope**
 
 Our following assets are explicitly in scope, if you find a vulnerability in a system you believe belongs to us but is not listed here we will review this on a case-by-case basis.
 
@@ -73,7 +97,9 @@ Our following assets are explicitly in scope, if you find a vulnerability in a s
 - 	divd.org
 - 	divd.observer
 
-**Out of Scope**
+### **Out of Scope**
+
+Reports for any vulnerabilities listed here will not be accepted.
 
 - Spam, social engineering, and physical intrusion are out of scope. This includes phishing attempts.
 - DoS/DDoS attacks or brute force attacks.
@@ -85,7 +111,7 @@ Our following assets are explicitly in scope, if you find a vulnerability in a s
 - Not following industry standards.
 - Missing best practices.
 
-**Nonqualifying vulnerabilities**
+### **Nonqualifying vulnerabilities**
 
 Reports for any vulnerabilities listed here will not be accepted.
 
