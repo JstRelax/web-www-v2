@@ -1,6 +1,6 @@
 ---
 title: DIVD responsibly discloses six new zero-day vulnerabilities to vendor
-date: 2024-08-11T16:03:00+02:00
+date: 2024-08-12T05:54:00+02:00
 author: []
 tag: news
 intro: DIVD researchers have discovered and, in collaboration with the vendor, disclosed six new zero-day vulnerabilities in Enphase IQ Gateway devices.
@@ -10,7 +10,7 @@ case: null
 faq_enabled: false
 faq: null
 ---
-**The Hague, Netherlands – Aug 11, 2024**
+**The Hague, Netherlands – Aug 12, 2024**
 by [Serena de Pater](https://www.divd.nl/who-we-are/team/people/serena-de-pater/) and [Marieke Smits](https://www.divd.nl/who-we-are/team/people/marieke-smits/)
 
 ## About the case
@@ -29,7 +29,7 @@ Combining the first three of the six vulnerabilities enables unauthenticated att
 
 The energy sector is crucial to our daily lives, yet we're seeing a concerning rise in vulnerabilities, especially with the rapid energy transition. As new technologies like smart grids and IoT devices are integrated, the sector's exposure to risks increases. This surge in vulnerabilities likely stems from the fast-paced innovation that often outstrips security measures. Given the sector's importance, it's vital to prioritize cybersecurity to safeguard against these growing threats.
 
-In 2022, DIVD researcher [Jelle Ursem](https://www.divd.nl/who-we-are/team/people/jelle-ursem/) found a GitHub repository that contained [SolarMan's Super Admin account login details](https://csirt.divd.nl/cases/DIVD-2022-00009/). These were visible to anyone who visited the page. Could have allowed cybercriminals to manage around 1 million solar panel inverters globally, which thankfully did not happen due to responsible disclosure. 
+In 2022, DIVD researcher [Jelle Ursem](https://www.divd.nl/who-we-are/team/people/jelle-ursem/) found a GitHub repository that contained [SolarMan's Super Admin account login details](https://csirt.divd.nl/cases/DIVD-2022-00009/). These were visible to anyone who visited the page and could have allowed cybercriminals to manage around 1 million solar panel inverters globally, which thankfully did not happen due to responsible disclosure. 
 
 > *“At DIVD, we sincerely hope that preventive actions are taken to address vulnerabilities and weaknesses before any disaster occurs. We already found multiple vulnerabilities at charge points and their backends, which we reported. And according to [a research on the impact of a hack on the charging infrastructure by Berenschot](https://www.agendalaadinfrastructuur.nl/ondersteuning+gemeenten/documenten+en+links/documenten+in+bibliotheek/handlerdownloadfiles.ashx?idnv=2135552) a blackout would cost us at least multiple billions of euros each day in the Netherlands”.  - [Harm van den Brink](https://www.divd.nl/who-we-are/team/people/harm-van-den-brink/) (Researcher Energy)* 
 
@@ -47,7 +47,8 @@ Make sure to [follow](https://www.linkedin.com/company/divd-nl/?) us on LinkedIn
 
 - [Casefile DIVD-2024-00011](https://csirt.divd.nl/DIVD-2024-00011)
 - [Security advisory from Enphase](https://enphase.com/cybersecurity/advisories/ensa-2024-6?_gl=1*ut63dx*_up*MQ..*_ga*MTU3MzcwMTgxMC4xNzIzMzY5ODY2*_ga_0L7F5QSJ7V*MTcyMzM2OTg2NS4xLjAuMTcyMzM2OTg2NS4wLjAuMA..)
-- [RVO rapport](https://topsectorenergie.nl/kennisbank/maatregelen-cyberveiligheid-zonpv/) (NL)
-- [Bitdefender report](https://www.bitdefender.com/blog/labs/60-hurts-per-second-how-we-got-access-to-enough-solar-power-to-run-the-united-states/) (ENG)
-- [Follow the Money article](https://www.ftm.nl/artikelen/hacker-kan-stekker-uit-zonnepanelen-trekken-en-stroomnet-platleggen) 
+- [Secura; Scenario’s en maatregelen voor cyberweerbare zonnestroominstallaties](https://topsectorenergie.nl/nl/kennisbank/maatregelen-cyberveiligheid-zonpv/)
+ (NL)
+- [Bitdefender report](https://www.bitdefender.com/blog/labs/60-hurts-per-second-how-we-got-access-to-enough-solar-power-to-run-the-united-states/)
+- [Follow the Money](https://www.ftm.nl/artikelen/hacker-kan-stekker-uit-zonnepanelen-trekken-en-stroomnet-platleggen);[ Nederlandse hacker kon 4 miljoen zonnepaneelsystemen in 150 landen overnemen](https://www.ftm.nl/artikelen/hacker-kan-stekker-uit-zonnepanelen-trekken-en-stroomnet-platleggen)
 - [EenVandaag](https://eenvandaag.avrotros.nl/): Demonstration of the vulnerabilities in action, episode is released on  the 13th of August at 18:15 CET.
