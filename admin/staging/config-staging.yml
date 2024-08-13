@@ -1466,11 +1466,13 @@ collections:
         label: "Proudest work"
         i18n: true
         widget: object
+        required: false
         fields:
           - label: "title"
             name: "title"
             widget: "string"
             i18n: true
+            required: false
           - label: "Our proudest work"
             name: "ourproudestwork"
             widget: "relation"
@@ -1480,6 +1482,7 @@ collections:
             display_fields: ["title", "case.caseid"]
             required: false
             multiple: true
+            required: false
 
       # BLOCK:  Our mission #####################################################
       - name: "mission"
