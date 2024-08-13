@@ -1,21 +1,29 @@
 ---
 title: Responsible Disclosure
 ---
-**General**
+### **General**
 
 At DIVD the security of our systems is a top priority. No matter how much effort we put into system security, there might be vulnerabilities present. If you discover a vulnerability, we would like to know about it so we can take steps to address it. We would like to ask you to help us protect our systems.
 
-**Please do the following:**
+### **Please do the following**
 
 Submit your findings by using the following URL: <https://app.zerocopter.com/en/rd/f9afbf32-ce59-48ed-96f2-ac4410595aa4>.
 
-**Do’s:**
+### **Do’s**
 
-- Report the vulnerability as quickly as is reasonably possible, to minimize the risk of hostile actors finding it and taking advantage of it.
-- Report in a manner that safeguards the confidentiality of the report so that others do not gain access to the information.
-- Provide sufficient information to reproduce the problem, so we will be able to resolve it. Usually, the IP address or the URL of the affected system and a description of the vulnerability will be sufficient. However complex vulnerabilities may require further explanation.
+{{< callout type="success" >}}
+Report the vulnerability as quickly as is reasonably possible, to minimize the risk of hostile actors finding it and taking advantage of it.
+{{< /callout >}}
 
-**Don’ts:**
+{{< callout type="success" >}}
+Report in a manner that safeguards the confidentiality of the report so that others do not gain access to the information.
+{{< /callout >}}
+
+{{< callout type="success" >}}
+Provide sufficient information to reproduce the problem, so we will be able to resolve it. Usually, the IP address or the URL of the affected system and a description of the vulnerability will be sufficient. However complex vulnerabilities may require further explanation.
+{{< /callout >}}
+
+### **Don’ts**
 
 - Reveal the vulnerability or problem to others until it is resolved.
 - Build your own backdoor in an information system to then use it to demonstrate the vulnerability, because doing so can cause additional damage and create unnecessary security risks.
