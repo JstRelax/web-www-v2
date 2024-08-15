@@ -155,6 +155,8 @@ Reports for any vulnerabilities listed here will not be accepted.
 - Arbitrary file upload without proof of the existence of the uploaded file
 - Known vulnerabilities in techniques used without a working Proof of Concept.
 
+{{< callout type="info" >}}
 What to do if you find a vulnerability at one of our suppliers or cooperation partners?
 
 Vulnerabilities are best reported to those who can also resolve them. If you encounter any problems, we are, of course, willing to help you.
+{{< /callout >}}
