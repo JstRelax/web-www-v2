@@ -72,7 +72,7 @@ Access, or attempt to access, any data or information that does not belong to yo
 {{< /callout >}}
 
 {{< callout type="error" >}}
-Destroy or corrupt, or attempt to destroy or corrupt, any data or information that does not belong to you
+Destroy or corrupt, or attempt to destroy or corrupt, any data or information that does not belong to you.
 {{< /callout >}}
 
 ## **In Scope**
@@ -112,7 +112,7 @@ Reports for any vulnerabilities listed here will not be accepted.
 - Attacks that require unrealistic amounts of user interaction.
 - Reports from automated scanners that involve no testing specific to this program.
 - Not following industry standards.
-- Missed best practices.
+- Missing best practices.
 - Recently disclosed zero-day vulnerabilities in products where no patch is available or only a recent patch is available.
 
 ## **Nonqualifying vulnerabilities**
