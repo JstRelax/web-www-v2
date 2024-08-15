@@ -63,14 +63,17 @@ Destroy or corrupt, or attempt to destroy or corrupt, any data or information th
 
 ### **What we promise**
 
-- We will respond to your report within three business days with our evaluation of the report and an expected resolution date.
-- If you have followed the instructions above, we will not take any legal action against you concerning the report.
-- We will not pass on your personal details to third parties without your permission unless it is necessary to comply with a legal obligation.
-- Reporting under a pseudonym or anonymously is possible.
-- We will keep you informed of the progress towards resolving the problem.
-- In the public information concerning the reported problem, we will give your name as the discoverer of the problem (unless you desire otherwise).
-- We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication of the problem after it is resolved.
-- This Responsible Disclosure policy is based on an example written by Floor Terra and the Responsible Disclosure Guideline of the NCSC.
+We will respond to your report within three business days with our evaluation of the report and an expected resolution date. We will keep you informed of the progress towards resolving the problem.
+
+If you have followed the instructions above, we will not take any legal action against you concerning the report.
+
+We will not pass on your personal details to third parties without your permission unless it is necessary to comply with a legal obligation.
+
+In the public information concerning the reported problem, we will give your name as the discoverer of the problem (unless you desire otherwise). Reporting under a pseudonym or anonymously is possible.
+
+We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication of the problem after it is resolved.
+
+This Responsible Disclosure policy is based on an example written by Floor Terra and the Responsible Disclosure Guideline of the NCSC.
 
 ### **In Scope**
 
@@ -101,15 +104,16 @@ Our following assets are explicitly in scope, if you find a vulnerability in a s
 
 Reports for any vulnerabilities listed here will not be accepted.
 
-- Spam, social engineering, and physical intrusion are out of scope. This includes phishing attempts.
+- Spam, social engineering, and physical intrusion. This includes phishing attempts.
 - DoS/DDoS attacks or brute force attacks.
 - Vulnerabilities that only impact non-current browsers (older than 3 versions).
-- Attacks requiring the usage of shared computers, man in the middle or already compromised accounts or devices.
-- Recently disclosed zero-day vulnerabilities in products where no patch or a recent patch is available.
-- Attacks requiring unrealistic amounts of user interaction
+- Attacks requiring the usage of shared computers or man-in-the-middle.
+- Usage of already compromised accounts or devices.
+- Attacks that require unrealistic amounts of user interaction.
 - Reports from automated scanners that involve no testing specific to this program.
 - Not following industry standards.
-- Missing best practices.
+- Missed best practices.
+- Recently disclosed zero-day vulnerabilities in products where no patch is available or only a recent patch is available.
 
 ### **Nonqualifying vulnerabilities**
 
