@@ -1,15 +1,15 @@
 ---
 title: Responsible Disclosure
 ---
-### **General**
+## **General**
 
 At DIVD the security of our systems is a top priority. No matter how much effort we put into system security, there might be vulnerabilities present. If you discover a vulnerability, we would like to know about it so we can take steps to address it. We would like to ask you to help us protect our systems.
 
-### **Please do the following**
+## **Please do the following**
 
 Submit your findings by using the following URL: <https://app.zerocopter.com/en/rd/f9afbf32-ce59-48ed-96f2-ac4410595aa4>.
 
-### **What we promise**
+## **What we promise**
 
 We will respond to your report within three business days with our evaluation of the report and an expected resolution date. We will keep you informed of the progress towards resolving the problem.
 
@@ -23,7 +23,7 @@ We strive to resolve all problems as quickly as possible, and we would like to p
 
 This Responsible Disclosure policy is based on an example written by Floor Terra and the Responsible Disclosure Guideline of the NCSC.
 
-### **Do’s**
+## **Do’s**
 
 {{< callout type="success" >}}
 Report the vulnerability as quickly as is reasonably possible, to minimize the risk of hostile actors finding it and taking advantage of it.
@@ -37,14 +37,7 @@ Report in a manner that safeguards the confidentiality of the report so that oth
 Provide sufficient information to reproduce the problem, so we will be able to resolve it. Usually, the IP address or the URL of the affected system and a description of the vulnerability will be sufficient. However complex vulnerabilities may require further explanation.
 {{< /callout >}}
 
-### **Don’ts**
-
-{{< callout type="error" >}}
-
-- Reveal the vulnerability or problem to others until it is resolved.
-- Build your own backdoor in an information system to then use it to demonstrate the vulnerability, because doing so can cause additional damage and create unnecessary security risks.
-- Utilise a vulnerability further than necessary to establish its existence.
-{{< /callout >}}
+## **Don’ts**
 
 {{< callout type="error" >}}
 Reveal the vulnerability or problem to others until it is resolved.
@@ -82,7 +75,7 @@ Access, or attempt to access, any data or information that does not belong to yo
 Destroy or corrupt, or attempt to destroy or corrupt, any data or information that does not belong to you
 {{< /callout >}}
 
-### **In Scope**
+## **In Scope**
 
 Our following assets are explicitly in scope, if you find a vulnerability in a system you believe belongs to us but is not listed here we will review this on a case-by-case basis.
 
@@ -107,7 +100,7 @@ Our following assets are explicitly in scope, if you find a vulnerability in a s
 - 	divd.org
 - 	divd.observer
 
-### **Out of Scope**
+## **Out of Scope**
 
 Reports for any vulnerabilities listed here will not be accepted.
 
@@ -122,7 +115,7 @@ Reports for any vulnerabilities listed here will not be accepted.
 - Missed best practices.
 - Recently disclosed zero-day vulnerabilities in products where no patch is available or only a recent patch is available.
 
-### **Nonqualifying vulnerabilities**
+## **Nonqualifying vulnerabilities**
 
 Reports for any vulnerabilities listed here will not be accepted.
 
