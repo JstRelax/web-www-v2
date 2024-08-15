@@ -9,6 +9,20 @@ At DIVD the security of our systems is a top priority. No matter how much effort
 
 Submit your findings by using the following URL: <https://app.zerocopter.com/en/rd/f9afbf32-ce59-48ed-96f2-ac4410595aa4>.
 
+### **What we promise**
+
+We will respond to your report within three business days with our evaluation of the report and an expected resolution date. We will keep you informed of the progress towards resolving the problem.
+
+If you have followed the instructions above, we will not take any legal action against you concerning the report.
+
+We will not pass on your personal details to third parties without your permission unless it is necessary to comply with a legal obligation.
+
+In the public information concerning the reported problem, we will give your name as the discoverer of the problem (unless you desire otherwise). Reporting under a pseudonym or anonymously is possible.
+
+We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication of the problem after it is resolved.
+
+This Responsible Disclosure policy is based on an example written by Floor Terra and the Responsible Disclosure Guideline of the NCSC.
+
 ### **Do’s**
 
 {{< callout type="success" >}}
@@ -24,6 +38,13 @@ Provide sufficient information to reproduce the problem, so we will be able to r
 {{< /callout >}}
 
 ### **Don’ts**
+
+{{< callout type="error" >}}
+
+- Reveal the vulnerability or problem to others until it is resolved.
+- Build your own backdoor in an information system to then use it to demonstrate the vulnerability, because doing so can cause additional damage and create unnecessary security risks.
+- Utilise a vulnerability further than necessary to establish its existence.
+{{< /callout >}}
 
 {{< callout type="error" >}}
 Reveal the vulnerability or problem to others until it is resolved.
@@ -60,20 +81,6 @@ Access, or attempt to access, any data or information that does not belong to yo
 {{< callout type="error" >}}
 Destroy or corrupt, or attempt to destroy or corrupt, any data or information that does not belong to you
 {{< /callout >}}
-
-### **What we promise**
-
-We will respond to your report within three business days with our evaluation of the report and an expected resolution date. We will keep you informed of the progress towards resolving the problem.
-
-If you have followed the instructions above, we will not take any legal action against you concerning the report.
-
-We will not pass on your personal details to third parties without your permission unless it is necessary to comply with a legal obligation.
-
-In the public information concerning the reported problem, we will give your name as the discoverer of the problem (unless you desire otherwise). Reporting under a pseudonym or anonymously is possible.
-
-We strive to resolve all problems as quickly as possible, and we would like to play an active role in the ultimate publication of the problem after it is resolved.
-
-This Responsible Disclosure policy is based on an example written by Floor Terra and the Responsible Disclosure Guideline of the NCSC.
 
 ### **In Scope**
 
