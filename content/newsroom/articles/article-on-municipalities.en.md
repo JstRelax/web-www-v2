@@ -6,6 +6,7 @@ author:
 tag: news
 intro: Veel gemeenten reageren namelijk niet adequaat en/of niet snel genoeg op meldingen over beveiligingslekken. Dat blijkt uit recent onderzoek van de Universiteit Twente en het Dutch Institute for Vulnerability Disclosure (DIVD) onder 114 Nederlandse gemeenten. In dit artikel lees je meer over de uitkomsten van dit onderzoek.
 image: /images/articles/cybersecurity-freepik-2023-mk.webp
+Alt tag for image: ""
 faq_enabled: false
 ---
 By [Koen van Hove](https://staging.divd.nl/who-we-are/team/people/koen-van-hove/)
@@ -20,13 +21,13 @@ Veel gemeenten reageren namelijk niet adequaat en/of niet snel genoeg op melding
 
 [Koen van Hove](https://staging.divd.nl/who-we-are/team/people/koen-van-hove/), promovendus aan de Universiteit Twente, software- en onderzoeksingenieur bij NLnet Labs, en onderzoeker bij de vrijwilligersorganisatie Dutch Institute for Vulnerability Disclosure (DIVD), heeft onderzoek gedaan naar de responsiviteit en het adequaat handelen van gemeenten in Nederland. Er deden 114 gemeenten mee aan het onderzoek. Het resultaat was als volgt:
 
-#### 1. Tijd tussen notificatie en eerste respons
+### 1. Tijd tussen notificatie en eerste respons
 
 De termijn die de Universiteit Twente in haar Coordinated Vulnerability Disclosure (CVD) voor onderzoek aanhoudt, is 90 dagen.
 
 - Slechts **70 van de 114** benaderde gemeenten reageerden binnen deze afgesproken 90 dagen, wat betekent dat 44 gemeenten niet op tijd reageerden op de kwetsbaarheidsmelding.
 
-#### 2. Kwaliteit van het respons 
+### 2. Kwaliteit van het respons 
 
 Bij **89 gemeenten** werd uiteindelijk bijgehouden of het beveiligingslek werd opgelost. 
 
