@@ -25,14 +25,20 @@ Veel gemeenten reageren namelijk niet adequaat en/of niet snel genoeg op melding
 
 De termijn die de Universiteit Twente in haar Coordinated Vulnerability Disclosure (CVD) voor onderzoek aanhoudt, is 90 dagen.
 
-- Slechts **70 van de 114** benaderde gemeenten reageerden binnen deze afgesproken 90 dagen, wat betekent dat 44 gemeenten niet op tijd reageerden op de kwetsbaarheidsmelding.
+{{< callout type="warning" >}}
+Slechts **70 van de 114** benaderde gemeenten reageerden binnen deze afgesproken 90 dagen, wat betekent dat 44 gemeenten niet op tijd reageerden op de kwetsbaarheidsmelding.
+{{< /callout >}}
 
 ### 2. Kwaliteit van het respons 
 
 Bij **89 gemeenten** werd uiteindelijk bijgehouden of het beveiligingslek werd opgelost. 
 
+{{< callout type="warning" >}}
+
 - Bij **19 van deze 89 gemeenten** werd de melding adequaat behandeld en werd er ook daadwerkelijk gereageerd op de melding.
 - Bij **10 gemeenten** werd het beveiligingslek wel opgelost, maar dit werd niet teruggekoppeld aan de melder.
+
+{{< /callout >}}
 
 ### Conclusie
 
