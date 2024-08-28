@@ -831,10 +831,7 @@ collections:
         name: "donations"
         widget: "list"
         fields:
-          - label: "Date"
-            name: "date"
-            widget: "datetime"
-            date_format: "YYYY-MM-DD"
+          - { label: "Date", name: "date", widget: "datetime", format: "YYYY-MM-DDTHH:mm:ssZ" }
           - label: "Amount"
             name: "amount"
             hint: "include currency symbol"
@@ -1482,7 +1479,6 @@ collections:
             display_fields: ["title", "case.caseid"]
             required: false
             multiple: true
-            required: false
 
       # BLOCK:  Our mission #####################################################
       - name: "mission"
