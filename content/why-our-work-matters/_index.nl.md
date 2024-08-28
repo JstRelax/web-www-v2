@@ -19,4 +19,4 @@ corevalues:
     title: Technical Proficiency
 corevaluestitle: Core values
 ---
-c
+..
