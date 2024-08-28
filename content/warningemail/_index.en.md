@@ -1,5 +1,5 @@
 ---
-title: Notification email
+title: Notification emails
 opener: We report vulnerabilities to prevent issues
 intro: |-
   Whenever a vulnerability is found, we open a [case](https://www.divd.nl/dictionary/) and create a fingerprint*. Afterwards, we start scanning to identify vulnerable instances and notify the owners of these systems. This structured approach helps ensure that vulnerabilities are tracked, managed, and resolved systematically.
