@@ -1,16 +1,13 @@
 ---
 title: Notification emails
 opener: We report vulnerabilities to prevent issues
-intro: |-
-  Whenever a vulnerability is found, we open a [case](https://www.divd.nl/dictionary/) and create a fingerprint*. Afterwards, we start scanning to identify vulnerable instances and notify the owners of these systems. This structured approach helps ensure that vulnerabilities are tracked, managed, and resolved systematically.
-
-  A case is a record or file, created to document and manage the process of addressing the specific vulnerability.  A fingerprint is a unique identifier or signature for the vulnerability to help in identifying affected systems.
+intro: When a vulnerability is found, we open a case and create a fingerprint. A case is a record or file created to document and manage the process of addressing a specific vulnerability. A fingerprint serves as a unique identifier or signature for the vulnerability, aiding in the identification of affected systems. Subsequently, we start scanning to identify vulnerable instances and notify the owners of these systems. This structured approach ensures that vulnerabilities are systematically tracked, managed, and resolved.
 csirt:
   title: Our researchers search for vulnerabilities
   description: |-
     CSIRT: Computer Security Incident Response Team
 
-    The CSIRT handles the scanning for and disclosing of vulnerabilities, either discovered by DIVD researchers or third parties and warning people for leaked credentials and operates our CVE Numbering Authority (CNA) capability.
+    The CSIRT is responsible for scanning and disclosing vulnerabilities identified by either DIVD researchers or third parties. Additionally, it alerts individuals about leaked credentials and manages our CVE Numbering Authority (CNA) functions.
 
     **Only owners of vulnerable instances receive a notification with the host information and mitigation steps.**
   link: https://csirt.divd.nl

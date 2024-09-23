@@ -11,7 +11,7 @@ teams:
     description: At the head of DIVD is our board, providing guidance, direction, and making strategic decisions. The day-to-day operations are managed by a team that includes our director, department heads, the CISO, and the crisis manager.
     members: []
   - title: Management
-    description: Lorem Ipsum
+    description: ""
   - title: DIVD-CSIRT
     description: The CSIRT (Computer Security Incident Response Team) is the beating heart of DIVD, responsible for scanning the Internet and notifying system owners of the vulnerabilities found in their systems. Within the CSIRT, the team of CNA Administrators is responsible for DIVD's role as CVE Number Authority (NA). They can independently assign CVE numbers and update CVE records for vulnerabilities within our scope.
     members: []
@@ -38,6 +38,16 @@ teams:
     members: []
   - title: Ethics Committee
     description: ""
+    members: []
+  - title: Confidentiality Officers
+    type: ""
+    description: |-
+      A safe working environment
+      DIVD continuously strives  to be a safe and healthy organization, where everyone feels at home. Creating a workplace where individuals feel secure, included, valued, trusted and respected is crucial for fostering a positive and productive atmosphere. Maintaining such an environment is essential for the well-being and professional development of our workforce. Therefore DIVD has appointed confidential advisors, by which we aim to provide employees with a dedicated and trustworthy channel to address concerns related to unwanted behaviors or integrity violations.
+
+      Unwanted behaviors, such as exclusion, bullying, harassment, discrimination, and aggression, can have a detrimental impact on an individual's well-being and the overall workplace environment. Similarly, integrity violations, encompassing actions like corruption, fraud, abuse of power, and disclosure of sensitive information, compromise the ethical foundation of an organization. DIVD acknowledges the severity of these issues and takes a proactive stance by not tolerating such behaviors.
+
+      The presence of the confidential advisors underscores the importance of open communication, addressing issues promptly, and upholding ethical standards. By offering this support system, DIVD aims to ensure that employees feel heard, supported, and empowered to address concerns without fear of reprisal. Also, DIVD intends to strengthen the trusted relationship, reassure employees that their concerns are taken seriously, and demonstrate its commitment to maintaining a workplace where integrity is paramount.
     members: []
 type: team
 ---
