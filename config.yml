@@ -218,10 +218,12 @@ collections:
         name: "button_text"
         widget: "string"
         i18n: true
+        required: false
       - label: "Button url"
         name: "button_url"
         widget: "string"
         i18n: true
+        required: false
       - label: "FAQ groups"
         name: "faqgroups"
         widget: list
@@ -1049,23 +1051,6 @@ collections:
       - { label: "Title", name: "title", widget: "string", i18n: true }
       - { label: "Body", name: "body", widget: "markdown", i18n: true }
 
-  # PAGE: !Code of Ethics #####################################################
-  - name: codeofethics
-    label: "Code of ethics"
-    folder: "content/what-we-do/code-of-ethics"
-    slug: "_index"
-    create: false
-    i18n: true
-    fields:
-      - {
-          label: "type",
-          name: "type",
-          widget: "hidden",
-          value: "codeofethics",
-        }
-      - { label: "Title", name: "title", widget: "string", i18n: true }
-      - { label: "Body", name: "body", widget: "markdown", i18n: true }
-
   # PAGE: !Terms #####################################################
   - name: termsandconditions
     label: "Terms and Conditions"
@@ -1215,7 +1200,7 @@ collections:
           - { label: "type", name: "type", widget: "hidden", value: "team" }
           - label: "Description"
             name: "description"
-            widget: markdown
+            widget: "text"
             i18n: true
             required: false
           - label: "Members"
@@ -1491,6 +1476,7 @@ collections:
             search_fields: ["title", "case.caseid"]
             value_field: "/newsroom/articles/{{slug}}"
             display_fields: ["title", "case.caseid"]
+            required: false
             multiple: true
 
       # BLOCK:  Our mission #####################################################
