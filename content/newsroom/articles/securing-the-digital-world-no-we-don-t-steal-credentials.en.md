@@ -51,9 +51,9 @@ To protect privacy, we never send plain-text passwords. All traffic is encrypted
 
 ### How do we keep sharing of leaked credentials safe?
 
-We strictly follow ethical and privacy guidelines to ensure that the sharing of leaked credentials is conducted safely. By encrypting all communications, masking sensitive data, and limiting access to trustworthy organizations, we protect victims’ information while enabling them to take action.
+We strictly follow ethical and privacy guidelines to ensure that the sharing of leaked credentials is conducted safely. By encrypting all communications, masking sensitive data, and limiting access to trustworthy organizations, we protect victims’ information while enabling them to take action. If you want to read our Code of Ethics, click [here](https://www.divd.nl/what-we-do/code-of-ethics/).
 
-We are also mindful of human rights concerns. When working with government entities, we ensure that only those in countries with strong human rights records receive access to sensitive data.
+We are also mindful of human rights concerns. When working with government entities, we ensure that only those in countries with strong human rights records receive access to sensitive data. If you want to read our Code of Conduct, click [here](https://staging.divd.nl/what-we-do/code-of-conduct/).
 
 ### Are leaked credentials a security vulnerability?
 
