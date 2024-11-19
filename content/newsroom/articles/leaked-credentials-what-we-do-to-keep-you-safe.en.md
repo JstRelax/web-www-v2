@@ -24,7 +24,7 @@ No, of course not! Our mission is to make the digital world safer by reporting v
 
 {{< callout type="info" >}}
 
-## Our first case of leaked credentials
+### Our first case of leaked credentials
 
 At the end of November 2021, cybercriminals engaged in a phishing campaign posing as Zoom. If a victim fell for this scam and entered their personal credentials, those credentials got compromised.
 
