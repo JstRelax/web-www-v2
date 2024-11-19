@@ -63,9 +63,20 @@ As volunteers, we have taken it upon ourselves to inform victims of cybercrime�
 
 ### Cases involving leaked credentials
 
-- [DIVD-2024-00022 - Millions of credentials scraped from Telegram](https://csirt.divd.nl/cases/DIVD-2024-00022/)
-- [DIVD-2024-00019 - Victim Notification Operation Endgame](https://csirt.divd.nl/cases/DIVD-2024-00019/)
-- [DIVD-2021-00015 - Telegram OD](https://csirt.divd.nl/cases/DIVD-2021-00015/)
-- [DIVD-2021-00012 - Warehouse Botnet](https://csirt.divd.nl/cases/DIVD-2021-00012/)
-- [DIVD-2021-00004 - Gelekte phishing gegevens / Leaked phishing credentials](https://csirt.divd.nl/cases/DIVD-2021-00004/)
-- [DIVD-2020-00013 - Gelekte phishing wachtwoorden / Leaked phishing credentials](https://csirt.divd.nl/cases/DIVD-2020-00013/)
+[DIVD-2024-00022 - Millions of credentials scraped from Telegram](https://csirt.divd.nl/cases/DIVD-2024-00022/)
+On June 4, 2024, an anonymous security researcher reached out to DIVD CSIRT for help with notifying victims. The researcher and their partners had infiltrated several Telegram chat groups where large volumes of account information were being exchanged. Our plan is to collaborate with CERTs, CSIRTs, and security teams, sharing the list with them so they can identify apex domains for which they need more detailed data.
+
+[DIVD-2024-00019 - Victim Notification Operation Endgame](https://csirt.divd.nl/cases/DIVD-2024-00019/)
+Operation Endgame is the largest anti-botnet operation to date, during which international law enforcement infiltrated major botnets like Smokeloader and IcedID, obtaining victim data—including email, ADFS, and account credentials—that was shared with cybersecurity organizations for mitigation and awareness efforts.
+
+[DIVD-2021-00015 - Telegram OD](https://csirt.divd.nl/cases/DIVD-2021-00015/)
+During an investigation into vendors who sell stolen credentials, one of our researchers discovered a Telegram group full of usernames and passwords that criminals had stolen from their victims' systems or by hacking into companies, websites, and services. Since this was an open Telegram group, we were able to extract the stolen data to notify the victims.
+
+[DIVD-2021-00012 - Warehouse Botnet](https://csirt.divd.nl/cases/DIVD-2021-00012/)
+During an investigation into open database servers in the Netherlands, one of our researchers discovered a database belonging to criminals containing stolen usernames and passwords. Since the database was not secured, we were able to download all the stolen data so we could notify the victims.
+
+[DIVD-2021-00004 - Gelekte phishing gegevens / Leaked phishing credentials](https://csirt.divd.nl/cases/DIVD-2021-00004/)
+In April, a security researcher reported to DIVD that a phishing campaign was underway, targeting various individuals and organizations using Active Directory Federation Services (ADFS). The researcher also reported that due to weak security in critical directories, the criminals' servers were leaking the compromised data. DIVD CSIRT received the data from the researcher intending to notify the victims via email in the coming days.
+
+[DIVD-2020-00013 - Gelekte phishing wachtwoorden / Leaked phishing credentials](https://csirt.divd.nl/cases/DIVD-2020-00013/)
+In late November, criminals ran a phishing campaign using fake Zoom invitations and email quarantine messages. A researcher from a partner organization discovered that the phishing server leaked compromised email/password combinations due to weak security. DIVD CSIRT received the Dutch portion of these lists to notify the affected victims.
