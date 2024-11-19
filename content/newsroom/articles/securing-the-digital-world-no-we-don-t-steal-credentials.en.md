@@ -20,7 +20,7 @@ The problem of leaked credentials is rapidly increasing. These compromised combi
 
 ### Do we leak credentials?
 
-No, we don’t leak credentials. Our mission is to make the digital world safer by reporting vulnerabilities we discover in digital systems to those who can address them. We do this by identifying new zero-day vulnerabilities, scanning for known CVEs, and, thanks to our extensive network and strong connections in the cybersecurity community, acting on tips from our peers when necessary. Occasionally, we receive tips about so-called leaked credentials. One example of such a case is [DIVD-2020-00013](https://csirt.divd.nl/cases/DIVD-2020-00013/), which involved a phishing campaign impersonating the videoconferencing platform Zoom.
+No, of course not! Our mission is to make the digital world safer by reporting vulnerabilities we discover in digital systems to those who can address them. We do this by identifying new zero-day vulnerabilities, scanning for known CVEs, and, thanks to our extensive network and strong connections in the cybersecurity community, acting on tips from our peers when necessary. Occasionally, we receive tips about so-called leaked credentials. One example of such a case is [DIVD-2020-00013](https://csirt.divd.nl/cases/DIVD-2020-00013/), which involved a phishing campaign impersonating the videoconferencing platform Zoom.
 
 {{< callout type="info" >}}
 
@@ -53,7 +53,7 @@ To protect privacy, we never send plain-text passwords. All traffic is encrypted
 
 We strictly follow ethical and privacy guidelines to ensure that the sharing of leaked credentials is conducted safely. By encrypting all communications, masking sensitive data, and limiting access to trustworthy organizations, we protect victims’ information while enabling them to take action. If you want to read our Code of Ethics, click [here](https://www.divd.nl/what-we-do/code-of-ethics/).
 
-We are also mindful of human rights concerns. When working with government entities, we ensure that only those in countries with strong human rights records receive access to sensitive data. If you want to read our Code of Conduct, click [here](https://staging.divd.nl/what-we-do/code-of-conduct/).
+We are also mindful of human rights concerns. When working with government entities, we ensure that only those in countries with strong human rights records receive access to sensitive data. If you want to read our Code of Conduct, click [here](https://www.divd.nl/what-we-do/code-of-conduct/).
 
 ### Are leaked credentials a security vulnerability?
 
