@@ -61,6 +61,8 @@ Yes, leaked credentials represent a significant cybersecurity vulnerability. Lik
 
 As volunteers, we have taken it upon ourselves to inform victims of cybercrime—not only those with vulnerable systems but also those whose credentials have been leaked online. Would you like to read more about how we deal with leaked credentials? Please visit our [CSIRT Page](https://csirt.divd.nl/credentials/). 
 
+{{< callout type="info" >}}
+
 ## Cases involving leaked credentials
 
 Read about other cases involving leaked credentials below.
@@ -88,3 +90,5 @@ In April, a security researcher reported to DIVD that a phishing campaign was un
 ### DIVD-2020-00013 - Gelekte phishing wachtwoorden / Leaked phishing credentials
 
 In late November, criminals ran a phishing campaign using fake Zoom invitations and email quarantine messages. A researcher from a partner organization discovered that the phishing server leaked compromised email/password combinations due to weak security. DIVD CSIRT received the Dutch portion of these lists to notify the affected victims. Read more [here](https://csirt.divd.nl/cases/DIVD-2020-00013/).
+
+{{< /callout >}}
