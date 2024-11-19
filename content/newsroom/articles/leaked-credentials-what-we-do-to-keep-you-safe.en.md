@@ -26,6 +26,8 @@ No, of course not! Our mission is to make the digital world safer by reporting v
 
 ### Our first case of leaked credentials
 
+#### **DIVD-2020-00013 - Leaked phishing credentials**
+
 At the end of November 2021, cybercriminals engaged in a phishing campaign posing as Zoom. If a victim fell for this scam and entered their personal credentials, those credentials got compromised.
 
 While investigating this phishing campaign, a partner organization discovered that the compromised usernames and passwords were stored in improperly secured directories, unintentionally exposing them to public access. This meant that not only the criminals but anyone could access the credentials. The leaked credentials were downloaded from the internet. After connecting and collaborating with our partners, our CSIRT received the Dutch part (386 accounts) of the harvested credentials, so that we could inform potential victims. 
@@ -71,23 +73,23 @@ Read about other cases involving leaked credentials below.
 
 On June 4, 2024, an anonymous security researcher reached out to DIVD CSIRT for help with notifying victims. The researcher and their partners had infiltrated several Telegram chat groups where large volumes of account information were being exchanged. Our plan is to collaborate with CERTs, CSIRTs, and security teams, sharing the list with them so they can identify apex domains for which they need more detailed data. Read more [here](https://csirt.divd.nl/cases/DIVD-2024-00022/).
 
-### DIVD-2024-00019 - Victim Notification Operation Endgame
+#### DIVD-2024-00019 - Victim Notification Operation Endgame
 
 Operation Endgame is the largest anti-botnet operation to date, during which international law enforcement infiltrated major botnets like Smokeloader and IcedID, obtaining victim data—including email, ADFS, and account credentials—that was shared with cybersecurity organizations for mitigation and awareness efforts. Read more [here](https://csirt.divd.nl/cases/DIVD-2024-00019/).
 
-### DIVD-2021-00015 - Telegram OD
+#### **DIVD-2021-00015 - Telegram OD**
 
 During an investigation into vendors who sell stolen credentials, one of our researchers discovered a Telegram group full of usernames and passwords that criminals had stolen from their victims' systems or by hacking into companies, websites, and services. Since this was an open Telegram group, we were able to extract the stolen data to notify the victims. Read more [here](https://csirt.divd.nl/cases/DIVD-2021-00015/).
 
-### DIVD-2021-00012 - Warehouse Botnet
+#### **DIVD-2021-00012 - Warehouse Botnet**
 
 During an investigation into open database servers in the Netherlands, one of our researchers discovered a database belonging to criminals containing stolen usernames and passwords. Since the database was not secured, we were able to download all the stolen data so we could notify the victims. Read more [here](https://csirt.divd.nl/cases/DIVD-2021-00012/).
 
-### DIVD-2021-00004 - Leaked phishing credentials
+#### **DIVD-2021-00004 - Leaked phishing credentials**
 
 In April, a security researcher reported to DIVD that a phishing campaign was underway, targeting various individuals and organizations using Active Directory Federation Services (ADFS). The researcher also reported that due to weak security in critical directories, the criminals' servers were leaking the compromised data. DIVD CSIRT received the data from the researcher intending to notify the victims via email in the coming days. Read more [here](https://csirt.divd.nl/cases/DIVD-2021-00004/).
 
-### DIVD-2020-00013 - Gelekte phishing wachtwoorden / Leaked phishing credentials
+#### **DIVD-2020-00013 - Leaked phishing credentials**
 
 In late November, criminals ran a phishing campaign using fake Zoom invitations and email quarantine messages. A researcher from a partner organization discovered that the phishing server leaked compromised email/password combinations due to weak security. DIVD CSIRT received the Dutch portion of these lists to notify the affected victims. Read more [here](https://csirt.divd.nl/cases/DIVD-2020-00013/).
 
