@@ -67,13 +67,13 @@ As volunteers, we have taken it upon ourselves to inform victims of cybercrime�
 
 ### Cases involving leaked credentials
 
-Read about other cases involving leaked credentials below.
+Read about other cases below.
 
-#### DIVD-2024-00022 - Millions of credentials scraped from Telegram
+#### **DIVD-2024-00022 - Millions of credentials scraped from Telegram**
 
 On June 4, 2024, an anonymous security researcher reached out to DIVD CSIRT for help with notifying victims. The researcher and their partners had infiltrated several Telegram chat groups where large volumes of account information were being exchanged. Our plan is to collaborate with CERTs, CSIRTs, and security teams, sharing the list with them so they can identify apex domains for which they need more detailed data. Read more [here](https://csirt.divd.nl/cases/DIVD-2024-00022/).
 
-#### DIVD-2024-00019 - Victim Notification Operation Endgame
+#### **DIVD-2024-00019 - Victim Notification Operation Endgame**
 
 Operation Endgame is the largest anti-botnet operation to date, during which international law enforcement infiltrated major botnets like Smokeloader and IcedID, obtaining victim data—including email, ADFS, and account credentials—that was shared with cybersecurity organizations for mitigation and awareness efforts. Read more [here](https://csirt.divd.nl/cases/DIVD-2024-00019/).
 
