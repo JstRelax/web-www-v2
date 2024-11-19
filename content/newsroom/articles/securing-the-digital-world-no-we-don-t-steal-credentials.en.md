@@ -7,7 +7,7 @@ intro: On our website, you might have found a page called ‘how we deal with le
 image: /images/2024-11-19 15_05_56-DIVD & Leaked Credentials - Google Docs.png
 Alt tag for image: ""
 case: null
-faq_enabled: false
+faq_enabled: true
 faq: null
 ---
 **Nov 19, 2024** by [Serena de Pater](https://www.divd.nl/who-we-are/team/people/serena-de-pater/)
