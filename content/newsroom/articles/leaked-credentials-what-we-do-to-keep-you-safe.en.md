@@ -26,7 +26,7 @@ No, of course not! Our mission is to make the digital world safer by reporting v
 
 ### Our first case of leaked credentials
 
-#### **DIVD-2020-00013 - Leaked phishing credentials**
+#### **DIVD-2020-00013**
 
 At the end of November 2021, cybercriminals engaged in a phishing campaign posing as Zoom. If a victim fell for this scam and entered their personal credentials, those credentials got compromised.
 
@@ -69,7 +69,7 @@ As volunteers, we have taken it upon ourselves to inform victims of cybercrimeâ€
 
 Read about other cases involving leaked credentials below.
 
-### DIVD-2024-00022 - Millions of credentials scraped from Telegram
+#### DIVD-2024-00022 - Millions of credentials scraped from Telegram
 
 On June 4, 2024, an anonymous security researcher reached out to DIVD CSIRT for help with notifying victims. The researcher and their partners had infiltrated several Telegram chat groups where large volumes of account information were being exchanged. Our plan is to collaborate with CERTs, CSIRTs, and security teams, sharing the list with them so they can identify apex domains for which they need more detailed data. Read more [here](https://csirt.divd.nl/cases/DIVD-2024-00022/).
 
