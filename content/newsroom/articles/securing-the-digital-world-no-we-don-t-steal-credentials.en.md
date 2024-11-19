@@ -18,17 +18,13 @@ No, we don’t leak credentials. Our goal is to make the digital world safer by 
 
 {{< callout type="info" >}}
 
-### Are leaked credentials a security vulnerability?
-
-Yes, leaked credentials can be considered an example of a cybersecurity vulnerability. Both leaked credentials and vulnerabilities (CVE’s) can be exploited by cybercriminals. A leaked credential set often leads to security breaches or attacks, just as an unpatched vulnerability can be exploited to gain unauthorized access or cause damage.
-
-{{< /callout >}}
-
 ### Our first case of leaked credentials
 
 At the end of November 2021, cybercriminals were involved in a phishing campaign where they impersonated the videoconferencing platform Zoom. If a victim fell for this scam and entered their personal credentials, those credentials got stolen by criminals. 
 
 While researching this phishing campaign, a researcher from a partner organization discovered that the phishing infrastructure accidentally leaked the illegally captured usernames and passwords, because they were stored in improperly secured directories. This way, not only the cybercriminals had access to the credentials, but they were accessible to the public as well. The leaked credentials were downloaded from the internet. After connecting and collaborating with our partners, our CSIRT received the Dutch part (386 credentials) of the harvested credentials, so that we could inform potential victims. 
+
+{{< /callout >}}
 
 ### What do we do with leaked credentials?
 
@@ -46,6 +42,10 @@ Needless to say, we don’t send leaked passwords in plain text to our partners.
 The problem of leaked credentials is rapidly increasing. Usernames and passwords are often stolen through methods such as malware, phishing, or hacking. Once obtained, these stolen credentials are sold, traded, and exchanged on a large scale. Cybercriminals who acquire a set of usernames and passwords no longer need advanced technical skills to infiltrate a company or an individual's account. Leaked credentials can be compared to an envelope with an address on it, inside of which is a key to the front door. And unlike physical keys, passwords often work on multiple doors because people have the habit of reusing username and password combinations. If multi-factor authentication (MFA) is not enabled during the login process, this is all the criminals need to access your home, your company, and your sensitive data.
 
 As volunteers, we have taken it upon ourselves to inform victims of cybercrime—not only those with vulnerable systems but also those whose credentials have been leaked online. Would you like to read more about how we deal with leaked credentials? Please visit our [CSIRT Page](https://csirt.divd.nl/credentials/). 
+
+### Are leaked credentials a security vulnerability?
+
+Yes, leaked credentials can be considered an example of a cybersecurity vulnerability. Both leaked credentials and vulnerabilities (CVE’s) can be exploited by cybercriminals. A leaked credential set often leads to security breaches or attacks, just as an unpatched vulnerability can be exploited to gain unauthorized access or cause damage.
 
 ### Cases involving leaked credentials
 
