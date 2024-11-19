@@ -63,11 +63,9 @@ Yes, leaked credentials represent a significant cybersecurity vulnerability. Lik
 
 As volunteers, we have taken it upon ourselves to inform victims of cybercrime—not only those with vulnerable systems but also those whose credentials have been leaked online. Would you like to read more about how we deal with leaked credentials? Please visit our [CSIRT Page](https://csirt.divd.nl/credentials/). 
 
+## Cases involving leaked credentials
+
 {{< callout type="info" >}}
-
-### Cases involving leaked credentials
-
-Read about other cases below.
 
 #### **DIVD-2024-00022 - Millions of credentials scraped from Telegram**
 
